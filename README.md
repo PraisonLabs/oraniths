@@ -16,3 +16,5 @@ Remove unused imports
 
 Refactor code for better readability
 
+Update requirements.txt
+
