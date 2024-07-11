@@ -20,3 +20,5 @@ Update requirements.txt
 
 Update documentation
 
+Optimize performance
+
