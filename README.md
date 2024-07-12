@@ -26,3 +26,5 @@ Optimize performance
 Fix bug in inventory module
 
 Optimize performance
+
+Update README with usage instructions
