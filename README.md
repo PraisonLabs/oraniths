@@ -22,3 +22,5 @@ Update documentation
 
 Optimize performance
 
+Fix bug in inventory module
+
