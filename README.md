@@ -30,3 +30,5 @@ Update README with usage instructions
 
 Fix bug in inventory module
 
+Update config settings
+
