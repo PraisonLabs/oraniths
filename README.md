@@ -40,3 +40,5 @@ Add support for new file format
 Add comments to clarify code
 
 Improve UI responsiveness
+
+Update requirements.txt
