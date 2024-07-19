@@ -42,3 +42,5 @@ Add comments to clarify code
 Improve UI responsiveness
 
 Update requirements.txt
+
+Improve UI responsiveness
