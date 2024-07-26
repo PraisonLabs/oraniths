@@ -54,3 +54,5 @@ Improve error handling
 
 Improve UI responsiveness
 
+Cleanup codebase
+
