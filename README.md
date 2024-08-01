@@ -62,3 +62,5 @@ Remove unused imports
 Add support for new file format
 
 Add comments to clarify code
+
+Update dependencies
