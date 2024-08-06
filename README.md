@@ -70,3 +70,5 @@ Add comments to clarify code
 Optimize performance
 
 Add new feature to inventory
+
+Update dependencies
