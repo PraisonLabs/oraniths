@@ -80,3 +80,5 @@ Fix bug in inventory module
 
 Optimize performance
 
+Refactor code for better readability
+
