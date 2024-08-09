@@ -78,3 +78,5 @@ Update dependencies
 Update config settings
 
 Fix bug in inventory module
+
+Optimize performance
