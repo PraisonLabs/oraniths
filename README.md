@@ -74,3 +74,5 @@ Add new feature to inventory
 Update dependencies
 
 Update dependencies
+
+Update config settings
