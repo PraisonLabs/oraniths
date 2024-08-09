@@ -74,3 +74,5 @@ Update dependencies
 
 Update dependencies
 
+Update config settings
+
