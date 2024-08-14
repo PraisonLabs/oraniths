@@ -84,3 +84,5 @@ Refactor code for better readability
 
 Cleanup codebase
 
+Update requirements.txt
+
