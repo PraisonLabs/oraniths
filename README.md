@@ -92,3 +92,5 @@ Optimize performance
 
 Add support for new file format
 
+Cleanup codebase
+
