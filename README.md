@@ -96,3 +96,5 @@ Add support for new file format
 Cleanup codebase
 
 Add support for new file format
+
+Fix bug in inventory module
