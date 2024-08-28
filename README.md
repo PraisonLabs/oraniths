@@ -100,3 +100,5 @@ Fix bug in inventory module
 
 Fix failing tests
 
+Update config settings
+
