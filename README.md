@@ -102,3 +102,5 @@ Fix failing tests
 
 Update config settings
 
+Improve error handling
+
