@@ -98,3 +98,5 @@ Add support for new file format
 
 Fix bug in inventory module
 
+Fix failing tests
+
