@@ -106,3 +106,5 @@ Improve error handling
 
 Write tests for inventory functions
 
+Fix failing tests
+
