@@ -106,3 +106,5 @@ Update config settings
 Improve error handling
 
 Write tests for inventory functions
+
+Fix failing tests
