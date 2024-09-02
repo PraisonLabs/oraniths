@@ -114,3 +114,5 @@ Update README with usage instructions
 
 Improve error handling
 
+Remove unused imports
+
