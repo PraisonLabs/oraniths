@@ -112,3 +112,5 @@ Fix failing tests
 Fix typo in code
 
 Update README with usage instructions
+
+Improve error handling
