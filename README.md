@@ -110,3 +110,5 @@ Write tests for inventory functions
 Fix failing tests
 
 Fix typo in code
+
+Update README with usage instructions
