@@ -124,3 +124,5 @@ Add comments to clarify code
 Add comments to clarify code
 
 Fix bug in inventory module
+
+Update documentation
