@@ -118,3 +118,5 @@ Improve error handling
 Remove unused imports
 
 Cleanup codebase
+
+Add comments to clarify code
