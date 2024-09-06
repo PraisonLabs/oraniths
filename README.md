@@ -126,3 +126,5 @@ Add comments to clarify code
 Fix bug in inventory module
 
 Update documentation
+
+Update README with usage instructions
