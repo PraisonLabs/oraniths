@@ -134,3 +134,5 @@ Add new feature to inventory
 Fix failing tests
 
 Add new feature to inventory
+
+Update config settings
