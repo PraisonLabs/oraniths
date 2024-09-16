@@ -146,3 +146,5 @@ Fix typo in code
 
 Fix typo in code
 
+Add new feature to inventory
+
