@@ -152,3 +152,5 @@ Add new feature to inventory
 Update documentation
 
 Update requirements.txt
+
+Cleanup codebase
