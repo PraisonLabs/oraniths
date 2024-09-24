@@ -156,3 +156,5 @@ Cleanup codebase
 
 Update README with usage instructions
 
+Improve UI responsiveness
+
