@@ -154,3 +154,5 @@ Update requirements.txt
 
 Cleanup codebase
 
+Update README with usage instructions
+
