@@ -158,3 +158,5 @@ Update README with usage instructions
 
 Improve UI responsiveness
 
+Implement user authentication
+
