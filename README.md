@@ -170,3 +170,5 @@ Remove unused imports
 
 Optimize performance
 
+Update README with usage instructions
+
