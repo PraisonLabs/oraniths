@@ -174,3 +174,5 @@ Update README with usage instructions
 
 Improve error handling
 
+Cleanup codebase
+
