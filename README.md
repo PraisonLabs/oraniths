@@ -172,3 +172,5 @@ Optimize performance
 
 Update README with usage instructions
 
+Improve error handling
+
