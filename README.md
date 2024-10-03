@@ -176,3 +176,5 @@ Improve error handling
 
 Cleanup codebase
 
+Update documentation
+
