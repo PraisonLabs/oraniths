@@ -178,3 +178,5 @@ Improve error handling
 Cleanup codebase
 
 Update documentation
+
+Fix bug in inventory module
