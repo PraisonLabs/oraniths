@@ -186,3 +186,5 @@ Implement user authentication
 Fix typo in code
 
 Add comments to clarify code
+
+Fix bug in inventory module
