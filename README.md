@@ -188,3 +188,5 @@ Fix typo in code
 Add comments to clarify code
 
 Fix bug in inventory module
+
+Implement user authentication
