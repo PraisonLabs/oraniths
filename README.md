@@ -196,3 +196,5 @@ Optimize performance
 
 Refactor code for better readability
 
+Update requirements.txt
+
