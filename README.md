@@ -202,3 +202,5 @@ Update requirements.txt
 Cleanup codebase
 
 Fix typo in code
+
+Refactor code for better readability
