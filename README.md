@@ -206,3 +206,5 @@ Refactor code for better readability
 
 Optimize performance
 
+Improve error handling
+
