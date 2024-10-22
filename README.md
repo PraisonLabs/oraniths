@@ -208,3 +208,5 @@ Optimize performance
 
 Improve error handling
 
+Add comments to clarify code
+
