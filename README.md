@@ -208,3 +208,5 @@ Refactor code for better readability
 Optimize performance
 
 Improve error handling
+
+Add comments to clarify code
