@@ -218,3 +218,5 @@ Update documentation
 
 Cleanup codebase
 
+Fix bug in inventory module
+
