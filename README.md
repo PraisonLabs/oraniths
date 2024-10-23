@@ -214,3 +214,5 @@ Add comments to clarify code
 Update config settings
 
 Cleanup codebase
+
+Update documentation
