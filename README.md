@@ -222,3 +222,5 @@ Fix bug in inventory module
 
 Implement user authentication
 
+Cleanup codebase
+
