@@ -226,3 +226,5 @@ Implement user authentication
 Cleanup codebase
 
 Cleanup codebase
+
+Add support for new file format
