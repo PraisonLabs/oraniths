@@ -236,3 +236,5 @@ Refactor code for better readability
 
 Fix failing tests
 
+Update dependencies
+
