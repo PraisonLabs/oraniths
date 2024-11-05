@@ -238,3 +238,5 @@ Fix failing tests
 
 Update dependencies
 
+Improve error handling
+
