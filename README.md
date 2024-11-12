@@ -246,3 +246,5 @@ Update README with usage instructions
 Remove unused imports
 
 Improve logging
+
+Update config settings
