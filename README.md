@@ -250,3 +250,5 @@ Update config settings
 
 Update requirements.txt
 
+Update dependencies
+
