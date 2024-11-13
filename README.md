@@ -250,3 +250,5 @@ Improve logging
 Update config settings
 
 Update requirements.txt
+
+Update dependencies
