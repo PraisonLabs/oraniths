@@ -252,3 +252,5 @@ Update config settings
 Update requirements.txt
 
 Update dependencies
+
+Fix typo in code
