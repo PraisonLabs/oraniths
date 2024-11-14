@@ -256,3 +256,5 @@ Update dependencies
 Fix typo in code
 
 Update requirements.txt
+
+Optimize performance
