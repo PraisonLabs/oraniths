@@ -260,3 +260,5 @@ Optimize performance
 
 Write tests for inventory functions
 
+Add support for new file format
+
