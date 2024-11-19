@@ -264,3 +264,5 @@ Write tests for inventory functions
 Add support for new file format
 
 Fix bug in inventory module
+
+Update documentation
