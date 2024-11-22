@@ -268,3 +268,5 @@ Fix bug in inventory module
 Update documentation
 
 Update documentation
+
+Update requirements.txt
