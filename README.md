@@ -272,3 +272,5 @@ Update requirements.txt
 
 Optimize performance
 
+Improve UI responsiveness
+
