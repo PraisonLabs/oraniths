@@ -270,3 +270,5 @@ Update documentation
 Update documentation
 
 Update requirements.txt
+
+Optimize performance
