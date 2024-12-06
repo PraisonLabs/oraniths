@@ -282,3 +282,5 @@ Improve UI responsiveness
 Optimize performance
 
 Improve UI responsiveness
+
+Fix bug in inventory module
