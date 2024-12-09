@@ -292,3 +292,5 @@ Fix bug in inventory module
 
 Remove unused imports
 
+Fix typo in code
+
