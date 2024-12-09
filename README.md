@@ -288,3 +288,5 @@ Fix bug in inventory module
 Update dependencies
 
 Fix failing tests
+
+Fix bug in inventory module
