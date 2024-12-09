@@ -286,3 +286,5 @@ Improve UI responsiveness
 Fix bug in inventory module
 
 Update dependencies
+
+Fix failing tests
