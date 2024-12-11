@@ -298,3 +298,5 @@ Add comments to clarify code
 
 Refactor code for better readability
 
+Add new feature to inventory
+
