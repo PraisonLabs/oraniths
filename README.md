@@ -294,3 +294,5 @@ Remove unused imports
 
 Fix typo in code
 
+Add comments to clarify code
+
