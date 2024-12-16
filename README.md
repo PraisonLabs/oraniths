@@ -302,3 +302,5 @@ Refactor code for better readability
 Add new feature to inventory
 
 Improve UI responsiveness
+
+Improve logging
