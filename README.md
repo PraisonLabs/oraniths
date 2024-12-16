@@ -304,3 +304,5 @@ Improve UI responsiveness
 
 Improve logging
 
+Add new feature to inventory
+
