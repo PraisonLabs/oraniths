@@ -310,3 +310,5 @@ Add new feature to inventory
 Fix bug in inventory module
 
 Update documentation
+
+Update dependencies
