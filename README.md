@@ -312,3 +312,5 @@ Fix bug in inventory module
 Update documentation
 
 Update dependencies
+
+Remove unused imports
