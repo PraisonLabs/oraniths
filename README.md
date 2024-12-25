@@ -318,3 +318,5 @@ Fix bug in inventory module
 
 Fix typo in code
 
+Improve logging
+
