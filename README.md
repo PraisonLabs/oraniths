@@ -320,3 +320,5 @@ Fix typo in code
 
 Improve logging
 
+Update dependencies
+
