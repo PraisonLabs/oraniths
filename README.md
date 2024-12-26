@@ -322,3 +322,5 @@ Fix typo in code
 Improve logging
 
 Update dependencies
+
+Improve error handling
