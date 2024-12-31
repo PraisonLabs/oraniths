@@ -324,3 +324,5 @@ Update dependencies
 
 Improve error handling
 
+Update documentation
+
