@@ -332,3 +332,5 @@ Fix failing tests
 
 Improve error handling
 
+Update dependencies
+
