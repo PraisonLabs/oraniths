@@ -330,3 +330,5 @@ Update documentation
 Update documentation
 
 Fix failing tests
+
+Improve error handling
