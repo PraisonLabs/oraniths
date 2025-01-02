@@ -336,3 +336,5 @@ Improve error handling
 Update dependencies
 
 Add support for new file format
+
+Update README with usage instructions
