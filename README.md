@@ -342,3 +342,5 @@ Update documentation
 
 Optimize performance
 
+Fix typo in code
+
