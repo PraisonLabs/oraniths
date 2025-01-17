@@ -346,3 +346,5 @@ Optimize performance
 Fix typo in code
 
 Update requirements.txt
+
+Write tests for inventory functions
