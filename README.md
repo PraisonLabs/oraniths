@@ -348,3 +348,5 @@ Fix typo in code
 Update requirements.txt
 
 Write tests for inventory functions
+
+Implement user authentication
