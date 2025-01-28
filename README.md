@@ -370,3 +370,5 @@ Update README with usage instructions
 Update requirements.txt
 
 Update dependencies
+
+Update README with usage instructions
