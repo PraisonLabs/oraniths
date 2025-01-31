@@ -378,3 +378,5 @@ Optimize performance
 Update dependencies
 
 Fix failing tests
+
+Add new feature to inventory
