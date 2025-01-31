@@ -382,3 +382,5 @@ Fix failing tests
 Add new feature to inventory
 
 Write tests for inventory functions
+
+Update requirements.txt
