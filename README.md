@@ -376,3 +376,5 @@ Update README with usage instructions
 Optimize performance
 
 Update dependencies
+
+Fix failing tests
