@@ -388,3 +388,5 @@ Write tests for inventory functions
 
 Update documentation
 
+Improve UI responsiveness
+
