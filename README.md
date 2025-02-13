@@ -390,3 +390,5 @@ Write tests for inventory functions
 Update documentation
 
 Improve UI responsiveness
+
+Fix bug in inventory module
