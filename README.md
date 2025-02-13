@@ -390,3 +390,5 @@ Update documentation
 
 Improve UI responsiveness
 
+Fix bug in inventory module
+
