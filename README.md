@@ -398,3 +398,5 @@ Add new feature to inventory
 Update config settings
 
 Fix failing tests
+
+Fix typo in code
