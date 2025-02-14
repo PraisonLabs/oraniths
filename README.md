@@ -396,3 +396,5 @@ Add new feature to inventory
 
 Update config settings
 
+Fix failing tests
+
