@@ -404,3 +404,5 @@ Implement user authentication
 
 Update README with usage instructions
 
+Add comments to clarify code
+
