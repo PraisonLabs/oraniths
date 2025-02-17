@@ -402,3 +402,5 @@ Fix failing tests
 Fix typo in code
 
 Implement user authentication
+
+Update README with usage instructions
