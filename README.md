@@ -400,3 +400,5 @@ Update config settings
 Fix failing tests
 
 Fix typo in code
+
+Implement user authentication
