@@ -410,3 +410,5 @@ Add comments to clarify code
 Add support for new file format
 
 Update README with usage instructions
+
+Fix failing tests
