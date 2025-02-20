@@ -412,3 +412,5 @@ Add support for new file format
 Update README with usage instructions
 
 Fix failing tests
+
+Update dependencies
