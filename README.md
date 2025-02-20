@@ -412,3 +412,5 @@ Update README with usage instructions
 
 Fix failing tests
 
+Update dependencies
+
