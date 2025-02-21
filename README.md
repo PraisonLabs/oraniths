@@ -414,3 +414,5 @@ Update README with usage instructions
 Fix failing tests
 
 Update dependencies
+
+Fix typo in code
