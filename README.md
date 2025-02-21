@@ -414,3 +414,5 @@ Fix failing tests
 
 Update dependencies
 
+Fix typo in code
+
