@@ -420,3 +420,5 @@ Fix typo in code
 Update requirements.txt
 
 Update dependencies
+
+Update README with usage instructions
