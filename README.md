@@ -428,3 +428,5 @@ Remove unused imports
 Remove unused imports
 
 Improve logging
+
+Improve error handling
