@@ -426,3 +426,5 @@ Update README with usage instructions
 Remove unused imports
 
 Remove unused imports
+
+Improve logging
