@@ -430,3 +430,5 @@ Improve logging
 
 Improve error handling
 
+Update requirements.txt
+
