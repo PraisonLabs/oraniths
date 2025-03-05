@@ -436,3 +436,5 @@ Update requirements.txt
 Add support for new file format
 
 Fix typo in code
+
+Add support for new file format
