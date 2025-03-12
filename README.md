@@ -448,3 +448,5 @@ Optimize performance
 
 Update documentation
 
+Write tests for inventory functions
+
