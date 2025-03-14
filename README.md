@@ -456,3 +456,5 @@ Update config settings
 Optimize performance
 
 Update README with usage instructions
+
+Refactor code for better readability
