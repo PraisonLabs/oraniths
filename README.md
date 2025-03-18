@@ -458,3 +458,5 @@ Update README with usage instructions
 
 Refactor code for better readability
 
+Update dependencies
+
