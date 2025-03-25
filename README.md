@@ -466,3 +466,5 @@ Improve error handling
 Implement user authentication
 
 Optimize performance
+
+Update README with usage instructions
