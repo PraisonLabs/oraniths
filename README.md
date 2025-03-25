@@ -462,3 +462,5 @@ Update dependencies
 
 Improve error handling
 
+Implement user authentication
+
