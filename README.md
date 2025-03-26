@@ -472,3 +472,5 @@ Update README with usage instructions
 Improve logging
 
 Fix typo in code
+
+Improve UI responsiveness
