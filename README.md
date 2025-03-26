@@ -468,3 +468,5 @@ Optimize performance
 
 Update README with usage instructions
 
+Improve logging
+
