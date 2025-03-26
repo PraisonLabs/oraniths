@@ -472,3 +472,5 @@ Improve logging
 
 Fix typo in code
 
+Improve UI responsiveness
+
