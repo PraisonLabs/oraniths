@@ -480,3 +480,5 @@ Fix typo in code
 Implement user authentication
 
 Improve logging
+
+Add support for new file format
