@@ -480,3 +480,5 @@ Implement user authentication
 
 Improve logging
 
+Add support for new file format
+
