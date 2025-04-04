@@ -490,3 +490,5 @@ Fix typo in code
 Cleanup codebase
 
 Update documentation
+
+Improve UI responsiveness
