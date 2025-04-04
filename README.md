@@ -496,3 +496,5 @@ Improve UI responsiveness
 Remove unused imports
 
 Remove unused imports
+
+Write tests for inventory functions
