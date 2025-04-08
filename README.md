@@ -502,3 +502,5 @@ Cleanup codebase
 
 Write tests for inventory functions
 
+Optimize performance
+
