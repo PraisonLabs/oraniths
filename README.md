@@ -500,3 +500,5 @@ Remove unused imports
 Write tests for inventory functions
 
 Cleanup codebase
+
+Write tests for inventory functions
