@@ -506,3 +506,5 @@ Write tests for inventory functions
 Optimize performance
 
 Fix bug in inventory module
+
+Improve error handling
