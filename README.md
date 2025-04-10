@@ -510,3 +510,5 @@ Fix bug in inventory module
 Improve error handling
 
 Add new feature to inventory
+
+Cleanup codebase
