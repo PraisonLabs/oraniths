@@ -518,3 +518,5 @@ Update dependencies
 Fix failing tests
 
 Improve UI responsiveness
+
+Add comments to clarify code
