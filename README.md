@@ -520,3 +520,5 @@ Improve UI responsiveness
 
 Add comments to clarify code
 
+Update README with usage instructions
+
