@@ -522,3 +522,5 @@ Add comments to clarify code
 
 Update README with usage instructions
 
+Update dependencies
+
