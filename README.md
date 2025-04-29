@@ -526,3 +526,5 @@ Update README with usage instructions
 Update dependencies
 
 Improve logging
+
+Refactor code for better readability
