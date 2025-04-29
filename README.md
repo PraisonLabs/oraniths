@@ -528,3 +528,5 @@ Update dependencies
 Improve logging
 
 Refactor code for better readability
+
+Write tests for inventory functions
