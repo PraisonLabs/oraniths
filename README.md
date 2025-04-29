@@ -526,3 +526,5 @@ Update dependencies
 
 Improve logging
 
+Refactor code for better readability
+
