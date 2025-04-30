@@ -532,3 +532,5 @@ Refactor code for better readability
 Write tests for inventory functions
 
 Update documentation
+
+Update config settings
