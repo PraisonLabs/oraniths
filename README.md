@@ -536,3 +536,5 @@ Update config settings
 
 Fix bug in inventory module
 
+Add comments to clarify code
+
