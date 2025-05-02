@@ -544,3 +544,5 @@ Implement user authentication
 Improve logging
 
 Implement user authentication
+
+Update requirements.txt
