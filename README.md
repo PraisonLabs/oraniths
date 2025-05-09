@@ -562,3 +562,5 @@ Update config settings
 
 Optimize performance
 
+Add support for new file format
+
