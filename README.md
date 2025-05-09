@@ -562,3 +562,5 @@ Refactor code for better readability
 Update config settings
 
 Optimize performance
+
+Add support for new file format
