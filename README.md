@@ -566,3 +566,5 @@ Add support for new file format
 
 Update config settings
 
+Update documentation
+
