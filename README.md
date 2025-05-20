@@ -574,3 +574,5 @@ Update config settings
 Optimize performance
 
 Improve logging
+
+Add support for new file format
