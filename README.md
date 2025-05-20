@@ -574,3 +574,5 @@ Optimize performance
 
 Improve logging
 
+Add support for new file format
+
