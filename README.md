@@ -576,3 +576,5 @@ Improve logging
 
 Add support for new file format
 
+Improve error handling
+
