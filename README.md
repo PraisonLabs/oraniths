@@ -578,3 +578,5 @@ Add support for new file format
 
 Improve error handling
 
+Add support for new file format
+
