@@ -580,3 +580,5 @@ Improve error handling
 
 Add support for new file format
 
+Update dependencies
+
