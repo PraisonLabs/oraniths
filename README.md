@@ -584,3 +584,5 @@ Add support for new file format
 Update dependencies
 
 Add support for new file format
+
+Improve error handling
