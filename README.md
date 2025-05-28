@@ -586,3 +586,5 @@ Update dependencies
 Add support for new file format
 
 Improve error handling
+
+Refactor code for better readability
