@@ -594,3 +594,5 @@ Cleanup codebase
 Refactor code for better readability
 
 Fix failing tests
+
+Update documentation
