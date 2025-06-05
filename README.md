@@ -596,3 +596,5 @@ Fix failing tests
 
 Update documentation
 
+Add support for new file format
+
