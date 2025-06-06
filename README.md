@@ -600,3 +600,5 @@ Add support for new file format
 
 Fix failing tests
 
+Update README with usage instructions
+
