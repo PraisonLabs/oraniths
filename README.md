@@ -612,3 +612,5 @@ Cleanup codebase
 Cleanup codebase
 
 Cleanup codebase
+
+Update requirements.txt
