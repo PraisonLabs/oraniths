@@ -616,3 +616,5 @@ Cleanup codebase
 Update requirements.txt
 
 Fix typo in code
+
+Add comments to clarify code
