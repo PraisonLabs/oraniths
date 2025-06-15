@@ -41,3 +41,5 @@ import { Graph } from '../common/types';
         </form>
         <GraphVisualization graph={graph} />
 export default App;
+const handleQuerySubmit = async (e: React.FormEvent) => {    e.preventDefault();    if (!query.trim()) return;    try {      const response = await fetch("/api/query", {        method: "POST", headers: { "Content-Type": "application/json" },        body: JSON.stringify({ query })      });      const result = await response.json();      setGraph(result.graph);    } catch (error) { console.error("Failed to fetch graph:", error); }  };
+        <form onSubmit={handleQuerySubmit} style={{ marginBottom: '20px' }}>
