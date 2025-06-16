@@ -620,3 +620,5 @@ Fix typo in code
 Add comments to clarify code
 
 Update documentation
+
+Refactor code for better readability
