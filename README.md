@@ -622,3 +622,5 @@ Update documentation
 
 Refactor code for better readability
 
+Write tests for inventory functions
+
