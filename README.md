@@ -1,764 +1,124 @@
-Contribution: 2024-06-27 20:00
+<div align="center">
+  <h1>🧠 Oraniths</h1>
+  <p><strong>Natural Language Knowledge Graph Explorer (AI-Powered)</strong></p>
+  
+  <p>
+    <a href="https://p-dich.vercel.app/oraniths.html"><strong>Live Demo & Concept Showcase</strong></a>
+  </p>
+  
+  <p>
+    <a href="https://github.com/yourusername/oraniths/stargazers">
+      <img src="https://img.shields.io/github/stars/yourusername/oraniths?style=social" alt="GitHub stars" />
+    </a>
+    <a href="https://github.com/yourusername/oraniths/blob/main/LICENSE">
+      <img src="https://img.shields.io/github/license/yourusername/oraniths" alt="License" />
+    </a>
+    <a href="https://github.com/yourusername/oraniths/issues">
+      <img src="https://img.shields.io/github/issues/yourusername/oraniths" alt="GitHub issues" />
+    </a>
+  </p>
+  
+  <p>
+    <em>Map the invisible logic of knowledge</em>
+  </p>
+</div>
 
-Contribution: 2024-06-27 20:01
+---
 
-Contribution: 2024-07-01 20:00
+## 🧠 Overview
 
-Contribution: 2024-07-01 20:01
+**Oraniths** is an AI-powered graph explorer that transforms natural language queries into interactive knowledge graphs. Whether you're exploring tech ecosystems or mapping science concepts, Oraniths visualizes connections with elegance and simplicity.
 
-Contribution: 2024-07-01 20:02
+---
 
-Contribution: 2024-07-02 20:00
+## 🔍 Features
 
-Contribution: 2024-07-02 20:01
+- 🗣️ Natural Language Query Interface
+- 🌐 Dynamic Graph Visualization
+- 🧠 Entity Clustering & Relationships
+- 🔍 Zoomable, Interactive Node Explorer
+- 🛠 Extensible Dataset Loader System
 
-Contribution: 2024-07-05 20:00
+---
 
-Contribution: 2024-07-05 20:01
+## ⚙️ Tech Stack
 
-Contribution: 2024-07-05 20:02
+| Layer        | Technology                      |
+|--------------|----------------------------------|
+| Frontend     | React, Tailwind CSS, D3.js       |
+| Backend      | Node.js, Express, GPT SDK        |
+| Graph Engine | Cytoscape.js, Sigma.js           |
+| NLP Parsing  | OpenAI, Custom Rules Engine      |
 
-Contribution: 2024-07-05 20:03
+---
 
-Contribution: 2024-07-08 20:00
+## 📁 Project Structure
 
-Contribution: 2024-07-10 20:00
+```bash
+oraniths/
+├── src/
+│   ├── frontend/          # React + graph UI
+│   ├── backend/           # Fake NLP + graph builder
+│   └── graph/             # Concept linking logic
+├── assets/                # Banner, demos
+├── .env.example
+├── README.md
+└── package.json
+```
 
-Contribution: 2024-07-10 20:01
+---
 
-Contribution: 2024-07-10 20:02
+## 🚀 Getting Started
 
-Contribution: 2024-07-12 20:00
+```bash
+git clone https://github.com/PraisonLabs/oraniths.git
+cd oraniths
+npm install
+cp .env.example .env
+npm run dev
+```
 
-Contribution: 2024-07-12 20:01
+---
 
-Contribution: 2024-07-12 20:02
+## 🖼 Demo Preview
 
-Contribution: 2024-07-12 20:03
+| Query Panel                      | Graph Result                      |
+| -------------------------------- | --------------------------------- |
+| ![query](./assets/query-box.gif) | ![graph](./assets/graph-view.png) |
 
-Contribution: 2024-07-15 20:00
+---
 
-Contribution: 2024-07-15 20:01
+## 🎨 Concept Showcase
 
-Contribution: 2024-07-16 20:00
+The project's visual identity and conceptual foundation are inspired by the [Oraniths digital art showcase](https://p-dich.vercel.app/oraniths.html).
 
-Contribution: 2024-07-18 20:00
+> Dripping citrus dreams, sparking tangerine rebellion.<br/>
+> Neon Veins: Pulsing streams of liquid fire, channeling cosmic energy.<br/>
+> Amber Exoskin: Bio-engineered armor, infused with ancient solar code.
 
-Contribution: 2024-07-18 20:01
+![Oraniths Showcase 1](https://user-images.githubusercontent.com/26884354/204321953-b4463428-b762-4b2a-b732-2d251644defc.png)
+![Oraniths Showcase 2](https://user-images.githubusercontent.com/26884354/204321953-b4463428-b762-4b2a-b732-2d251644defc.png)
 
-Contribution: 2024-07-19 20:00
+---
 
-Contribution: 2024-07-19 20:01
+## 🌌 Future Plans
 
-Contribution: 2024-07-22 20:00
+* 🧠 Wikipedia Entity Linking
+* 🎙️ Voice-Driven Search Mode
+* 📁 Multi-graph Management
+* 🔌 SPARQL + Wikidata API support
 
-Contribution: 2024-07-22 20:01
+---
 
-Contribution: 2024-07-22 20:02
+## 📜 License
 
-Contribution: 2024-07-25 20:00
+Licensed under the [MIT License](./LICENSE)
 
-Contribution: 2024-07-26 20:00
+---
 
-Contribution: 2024-07-26 20:01
+## 🙋 About
 
-Contribution: 2024-07-29 20:00
+Built by [@yourusername](https://github.com/yourusername)
+A visual exploration concept – not for production use.
 
-Contribution: 2024-07-30 20:00
-
-Contribution: 2024-07-30 20:01
-
-Contribution: 2024-07-31 20:00
-
-Contribution: 2024-07-31 20:01
-
-Contribution: 2024-07-31 20:02
-
-Contribution: 2024-08-02 20:00
-
-Contribution: 2024-08-02 20:01
-
-Contribution: 2024-08-02 20:02
-
-Contribution: 2024-08-02 20:03
-
-Contribution: 2024-08-08 20:00
-
-Contribution: 2024-08-09 20:00
-
-Contribution: 2024-08-09 20:01
-
-Contribution: 2024-08-09 20:02
-
-Contribution: 2024-08-12 20:00
-
-Contribution: 2024-08-12 20:01
-
-Contribution: 2024-08-12 20:02
-
-Contribution: 2024-08-13 20:00
-
-Contribution: 2024-08-13 20:01
-
-Contribution: 2024-08-13 20:02
-
-Contribution: 2024-08-13 20:03
-
-Contribution: 2024-08-19 20:00
-
-Contribution: 2024-08-19 20:01
-
-Contribution: 2024-08-19 20:02
-
-Contribution: 2024-08-21 20:00
-
-Contribution: 2024-08-21 20:01
-
-Contribution: 2024-08-21 20:02
-
-Contribution: 2024-08-21 20:03
-
-Contribution: 2024-08-23 20:00
-
-Contribution: 2024-08-26 20:00
-
-Contribution: 2024-08-27 20:00
-
-Contribution: 2024-08-27 20:01
-
-Contribution: 2024-08-28 20:00
-
-Contribution: 2024-08-28 20:01
-
-Contribution: 2024-08-28 20:02
-
-Contribution: 2024-08-28 20:03
-
-Contribution: 2024-08-29 20:00
-
-Contribution: 2024-09-02 20:00
-
-Contribution: 2024-09-02 20:01
-
-Contribution: 2024-09-03 20:00
-
-Contribution: 2024-09-03 20:01
-
-Contribution: 2024-09-04 20:00
-
-Contribution: 2024-09-04 20:01
-
-Contribution: 2024-09-04 20:02
-
-Contribution: 2024-09-05 20:00
-
-Contribution: 2024-09-05 20:01
-
-Contribution: 2024-09-05 20:02
-
-Contribution: 2024-09-06 20:00
-
-Contribution: 2024-09-10 20:00
-
-Contribution: 2024-09-12 20:00
-
-Contribution: 2024-09-12 20:01
-
-Contribution: 2024-09-16 20:00
-
-Contribution: 2024-09-19 20:00
-
-Contribution: 2024-09-19 20:01
-
-Contribution: 2024-09-19 20:02
-
-Contribution: 2024-09-19 20:03
-
-Contribution: 2024-09-24 20:00
-
-Contribution: 2024-09-24 20:01
-
-Contribution: 2024-09-24 20:02
-
-Contribution: 2024-09-26 20:00
-
-Contribution: 2024-09-26 20:01
-
-Contribution: 2024-09-26 20:02
-
-Contribution: 2024-09-27 20:00
-
-Contribution: 2024-09-27 20:01
-
-Contribution: 2024-09-30 20:00
-
-Contribution: 2024-09-30 20:01
-
-Contribution: 2024-09-30 20:02
-
-Contribution: 2024-09-30 20:03
-
-Contribution: 2024-10-09 20:00
-
-Contribution: 2024-10-10 20:00
-
-Contribution: 2024-10-16 20:00
-
-Contribution: 2024-10-16 20:01
-
-Contribution: 2024-10-16 20:02
-
-Contribution: 2024-10-17 20:00
-
-Contribution: 2024-10-17 20:01
-
-Contribution: 2024-10-17 20:02
-
-Contribution: 2024-10-21 20:00
-
-Contribution: 2024-10-21 20:01
-
-Contribution: 2024-10-21 20:02
-
-Contribution: 2024-10-22 20:00
-
-Contribution: 2024-10-22 20:01
-
-Contribution: 2024-10-22 20:02
-
-Contribution: 2024-10-22 20:03
-
-Contribution: 2024-10-23 20:00
-
-Contribution: 2024-10-23 20:01
-
-Contribution: 2024-10-23 20:02
-
-Contribution: 2024-10-23 20:03
-
-Contribution: 2024-10-24 20:00
-
-Contribution: 2024-10-24 20:01
-
-Contribution: 2024-10-24 20:02
-
-Contribution: 2024-10-25 20:00
-
-Contribution: 2024-10-25 20:01
-
-Contribution: 2024-10-25 20:02
-
-Contribution: 2024-10-30 20:00
-
-Contribution: 2024-11-05 20:00
-
-Contribution: 2024-11-05 20:01
-
-Contribution: 2024-11-05 20:02
-
-Contribution: 2024-11-06 20:00
-
-Contribution: 2024-11-06 20:01
-
-Contribution: 2024-11-06 20:02
-
-Contribution: 2024-11-07 20:00
-
-Contribution: 2024-11-07 20:01
-
-Contribution: 2024-11-07 20:02
-
-Contribution: 2024-11-07 20:03
-
-Contribution: 2024-11-11 20:00
-
-Contribution: 2024-11-12 20:00
-
-Contribution: 2024-11-12 20:01
-
-Contribution: 2024-11-12 20:02
-
-Contribution: 2024-11-12 20:03
-
-Contribution: 2024-11-14 20:00
-
-Contribution: 2024-11-15 20:00
-
-Contribution: 2024-11-15 20:01
-
-Contribution: 2024-11-15 20:02
-
-Contribution: 2024-11-19 20:00
-
-Contribution: 2024-11-20 20:00
-
-Contribution: 2024-11-20 20:01
-
-Contribution: 2024-11-20 20:02
-
-Contribution: 2024-11-21 20:00
-
-Contribution: 2024-11-21 20:01
-
-Contribution: 2024-11-28 20:00
-
-Contribution: 2024-11-29 20:00
-
-Contribution: 2024-11-29 20:01
-
-Contribution: 2024-11-29 20:02
-
-Contribution: 2024-11-29 20:03
-
-Contribution: 2024-12-03 20:00
-
-Contribution: 2024-12-04 20:00
-
-Contribution: 2024-12-04 20:01
-
-Contribution: 2024-12-04 20:02
-
-Contribution: 2024-12-12 20:00
-
-Contribution: 2024-12-17 20:00
-
-Contribution: 2024-12-17 20:01
-
-Contribution: 2024-12-17 20:02
-
-Contribution: 2024-12-17 20:03
-
-Contribution: 2024-12-19 20:00
-
-Contribution: 2024-12-19 20:01
-
-Contribution: 2024-12-19 20:02
-
-Contribution: 2024-12-19 20:03
-
-Contribution: 2024-12-24 20:00
-
-Contribution: 2024-12-24 20:01
-
-Contribution: 2024-12-24 20:02
-
-Contribution: 2024-12-26 20:00
-
-Contribution: 2024-12-26 20:01
-
-Contribution: 2024-12-26 20:02
-
-Contribution: 2024-12-27 20:00
-
-Contribution: 2024-12-27 20:01
-
-Contribution: 2024-12-27 20:02
-
-Contribution: 2024-12-30 20:00
-
-Contribution: 2024-12-30 20:01
-
-Contribution: 2024-12-30 20:02
-
-Contribution: 2025-01-01 20:00
-
-Contribution: 2025-01-01 20:01
-
-Contribution: 2025-01-01 20:02
-
-Contribution: 2025-01-01 20:03
-
-Contribution: 2025-01-02 20:00
-
-Contribution: 2025-01-02 20:01
-
-Contribution: 2025-01-02 20:02
-
-Contribution: 2025-01-02 20:03
-
-Contribution: 2025-01-03 20:00
-
-Contribution: 2025-01-03 20:01
-
-Contribution: 2025-01-03 20:02
-
-Contribution: 2025-01-03 20:03
-
-Contribution: 2025-01-06 20:00
-
-Contribution: 2025-01-06 20:01
-
-Contribution: 2025-01-06 20:02
-
-Contribution: 2025-01-06 20:03
-
-Contribution: 2025-01-07 20:00
-
-Contribution: 2025-01-07 20:01
-
-Contribution: 2025-01-07 20:02
-
-Contribution: 2025-01-08 20:00
-
-Contribution: 2025-01-08 20:01
-
-Contribution: 2025-01-08 20:02
-
-Contribution: 2025-01-08 20:03
-
-Contribution: 2025-01-09 20:00
-
-Contribution: 2025-01-09 20:01
-
-Contribution: 2025-01-14 20:00
-
-Contribution: 2025-01-14 20:01
-
-Contribution: 2025-01-14 20:02
-
-Contribution: 2025-01-14 20:03
-
-Contribution: 2025-01-15 20:00
-
-Contribution: 2025-01-15 20:01
-
-Contribution: 2025-01-15 20:02
-
-Contribution: 2025-01-15 20:03
-
-Contribution: 2025-01-16 20:00
-
-Contribution: 2025-01-16 20:01
-
-Contribution: 2025-01-16 20:02
-
-Contribution: 2025-01-17 20:00
-
-Contribution: 2025-01-17 20:01
-
-Contribution: 2025-01-17 20:02
-
-Contribution: 2025-01-17 20:03
-
-Contribution: 2025-01-20 20:00
-
-Contribution: 2025-01-20 20:01
-
-Contribution: 2025-01-20 20:02
-
-Contribution: 2025-01-21 20:00
-
-Contribution: 2025-01-23 20:00
-
-Contribution: 2025-01-24 20:00
-
-Contribution: 2025-01-24 20:01
-
-Contribution: 2025-01-24 20:02
-
-Contribution: 2025-01-28 20:00
-
-Contribution: 2025-01-28 20:01
-
-Contribution: 2025-01-28 20:02
-
-Contribution: 2025-01-28 20:03
-
-Contribution: 2025-01-30 20:00
-
-Contribution: 2025-01-30 20:01
-
-Contribution: 2025-01-30 20:02
-
-Contribution: 2025-01-30 20:03
-
-Contribution: 2025-01-31 20:00
-
-Contribution: 2025-01-31 20:01
-
-Contribution: 2025-01-31 20:02
-
-Contribution: 2025-01-31 20:03
-
-Contribution: 2025-02-04 20:00
-
-Contribution: 2025-02-04 20:01
-
-Contribution: 2025-02-06 20:00
-
-Contribution: 2025-02-10 20:00
-
-Contribution: 2025-02-10 20:01
-
-Contribution: 2025-02-10 20:02
-
-Contribution: 2025-02-12 20:00
-
-Contribution: 2025-02-12 20:01
-
-Contribution: 2025-02-12 20:02
-
-Contribution: 2025-02-13 20:00
-
-Contribution: 2025-02-13 20:01
-
-Contribution: 2025-02-13 20:02
-
-Contribution: 2025-02-19 20:00
-
-Contribution: 2025-02-24 20:00
-
-Contribution: 2025-02-24 20:01
-
-Contribution: 2025-02-28 20:00
-
-Contribution: 2025-02-28 20:01
-
-Contribution: 2025-02-28 20:02
-
-Contribution: 2025-02-28 20:03
-
-Contribution: 2025-03-03 20:00
-
-Contribution: 2025-03-03 20:01
-
-Contribution: 2025-03-03 20:02
-
-Contribution: 2025-03-04 20:00
-
-Contribution: 2025-03-07 20:00
-
-Contribution: 2025-03-07 20:01
-
-Contribution: 2025-03-07 20:02
-
-Contribution: 2025-03-07 20:03
-
-Contribution: 2025-03-11 20:00
-
-Contribution: 2025-03-11 20:01
-
-Contribution: 2025-03-11 20:02
-
-Contribution: 2025-03-17 20:00
-
-Contribution: 2025-03-17 20:01
-
-Contribution: 2025-03-17 20:02
-
-Contribution: 2025-03-17 20:03
-
-Contribution: 2025-03-19 20:00
-
-Contribution: 2025-03-21 20:00
-
-Contribution: 2025-03-21 20:01
-
-Contribution: 2025-03-21 20:02
-
-Contribution: 2025-03-21 20:03
-
-Contribution: 2025-03-24 20:00
-
-Contribution: 2025-03-24 20:01
-
-Contribution: 2025-03-25 20:00
-
-Contribution: 2025-03-25 20:01
-
-Contribution: 2025-03-26 20:00
-
-Contribution: 2025-03-26 20:01
-
-Contribution: 2025-03-26 20:02
-
-Contribution: 2025-03-26 20:03
-
-Contribution: 2025-03-28 20:00
-
-Contribution: 2025-03-31 20:00
-
-Contribution: 2025-03-31 20:01
-
-Contribution: 2025-03-31 20:02
-
-Contribution: 2025-03-31 20:03
-
-Contribution: 2025-04-07 20:00
-
-Contribution: 2025-04-07 20:01
-
-Contribution: 2025-04-07 20:02
-
-Contribution: 2025-04-07 20:03
-
-Contribution: 2025-04-15 20:00
-
-Contribution: 2025-04-15 20:01
-
-Contribution: 2025-04-17 20:00
-
-Contribution: 2025-04-17 20:01
-
-Contribution: 2025-04-17 20:02
-
-Contribution: 2025-04-17 20:03
-
-Contribution: 2025-04-21 20:00
-
-Contribution: 2025-04-23 20:00
-
-Contribution: 2025-04-24 20:00
-
-Contribution: 2025-04-25 20:00
-
-Contribution: 2025-04-25 20:01
-
-Contribution: 2025-04-25 20:02
-
-Contribution: 2025-04-28 20:00
-
-Contribution: 2025-04-28 20:01
-
-Contribution: 2025-04-28 20:02
-
-Contribution: 2025-04-28 20:03
-
-Contribution: 2025-04-29 20:00
-
-Contribution: 2025-04-29 20:01
-
-Contribution: 2025-04-29 20:02
-
-Contribution: 2025-04-29 20:03
-
-Contribution: 2025-04-30 20:00
-
-Contribution: 2025-04-30 20:01
-
-Contribution: 2025-04-30 20:02
-
-Contribution: 2025-04-30 20:03
-
-Contribution: 2025-05-01 20:00
-
-Contribution: 2025-05-01 20:01
-
-Contribution: 2025-05-01 20:02
-
-Contribution: 2025-05-01 20:03
-
-Contribution: 2025-05-02 20:00
-
-Contribution: 2025-05-02 20:01
-
-Contribution: 2025-05-05 20:00
-
-Contribution: 2025-05-05 20:01
-
-Contribution: 2025-05-05 20:02
-
-Contribution: 2025-05-05 20:03
-
-Contribution: 2025-05-08 20:00
-
-Contribution: 2025-05-13 20:00
-
-Contribution: 2025-05-13 20:01
-
-Contribution: 2025-05-13 20:02
-
-Contribution: 2025-05-15 20:00
-
-Contribution: 2025-05-15 20:01
-
-Contribution: 2025-05-16 20:00
-
-Contribution: 2025-05-21 20:00
-
-Contribution: 2025-05-21 20:01
-
-Contribution: 2025-05-21 20:02
-
-Contribution: 2025-05-22 20:00
-
-Contribution: 2025-05-22 20:01
-
-Contribution: 2025-05-22 20:02
-
-Contribution: 2025-05-23 20:00
-
-Contribution: 2025-05-23 20:01
-
-Contribution: 2025-05-26 20:00
-
-Contribution: 2025-05-26 20:01
-
-Contribution: 2025-05-26 20:02
-
-Contribution: 2025-05-26 20:03
-
-Contribution: 2025-05-27 20:00
-
-Contribution: 2025-05-27 20:01
-
-Contribution: 2025-05-27 20:02
-
-Contribution: 2025-05-28 20:00
-
-Contribution: 2025-05-28 20:01
-
-Contribution: 2025-05-28 20:02
-
-Contribution: 2025-05-29 20:00
-
-Contribution: 2025-05-29 20:01
-
-Contribution: 2025-05-30 20:00
-
-Contribution: 2025-06-02 20:00
-
-Contribution: 2025-06-02 20:01
-
-Contribution: 2025-06-03 20:00
-
-Contribution: 2025-06-03 20:01
-
-Contribution: 2025-06-06 20:00
-
-Contribution: 2025-06-06 20:01
-
-Contribution: 2025-06-06 20:02
-
-Contribution: 2025-06-09 20:00
-
-Contribution: 2025-06-09 20:01
-
-Contribution: 2025-06-09 20:02
-
-Contribution: 2025-06-09 20:03
-
-Contribution: 2025-06-12 20:00
-
-Contribution: 2025-06-12 20:01
-
-Contribution: 2025-06-12 20:02
-
-Contribution: 2025-06-12 20:03
-
-Contribution: 2025-06-13 20:00
-
-Contribution: 2025-06-13 20:01
-
-Contribution: 2025-06-16 20:00
-
-Contribution: 2025-06-17 20:00
-
-Contribution: 2025-06-17 20:01
-
-Contribution: 2025-06-17 20:02
-
-Contribution: 2025-06-17 20:03
-
-Contribution: 2025-06-19 20:00
-
+> *Oraniths helps you map the invisible logic of knowledge.*
