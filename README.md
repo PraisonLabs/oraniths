@@ -634,3 +634,5 @@ Update documentation
 Improve logging
 
 Update README with usage instructions
+
+Write tests for inventory functions
