@@ -638,3 +638,5 @@ Write tests for inventory functions
 
 Fix typo in code
 
+Update config settings
+
