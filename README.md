@@ -632,3 +632,5 @@ Update documentation
 
 Improve logging
 
+Update README with usage instructions
+
