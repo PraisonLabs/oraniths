@@ -1,4 +1,5 @@
 <div align="center">
+  <img src="public/banner.png" alt="Oraniths Banner" />
   <h1>🧠 Oraniths</h1>
   <p><strong>Natural Language Knowledge Graph Explorer (AI-Powered)</strong></p>
   
@@ -7,14 +8,14 @@
   </p>
   
   <p>
-    <a href="https://github.com/yourusername/oraniths/stargazers">
-      <img src="https://img.shields.io/github/stars/yourusername/oraniths?style=social" alt="GitHub stars" />
+    <a href="https://github.com/PraisonLabs/oraniths/stargazers">
+      <img src="https://img.shields.io/github/stars/PraisonLabs/oraniths?style=social" alt="GitHub stars" />
     </a>
-    <a href="https://github.com/yourusername/oraniths/blob/main/LICENSE">
-      <img src="https://img.shields.io/github/license/yourusername/oraniths" alt="License" />
+    <a href="https://github.com/PraisonLabs/oraniths/blob/main/LICENSE">
+      <img src="https://img.shields.io/github/license/PraisonLabs/oraniths" alt="License" />
     </a>
-    <a href="https://github.com/yourusername/oraniths/issues">
-      <img src="https://img.shields.io/github/issues/yourusername/oraniths" alt="GitHub issues" />
+    <a href="https://github.com/PraisonLabs/oraniths/issues">
+      <img src="https://img.shields.io/github/issues/PraisonLabs/oraniths" alt="GitHub issues" />
     </a>
   </p>
   
@@ -116,9 +117,9 @@ Licensed under the [MIT License](./LICENSE)
 
 ---
 
-## 🙋 About
+## �� About
 
-Built by [@yourusername](https://github.com/yourusername)
+Built by [@PraisonLabs](https://github.com/PraisonLabs)
 A visual exploration concept – not for production use.
 
 > *Oraniths helps you map the invisible logic of knowledge.*
