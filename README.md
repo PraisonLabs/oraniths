@@ -636,3 +636,5 @@ Update README with usage instructions
 
 Write tests for inventory functions
 
+Fix typo in code
+
