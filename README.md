@@ -640,3 +640,5 @@ Fix typo in code
 
 Update config settings
 
+Update documentation
+
