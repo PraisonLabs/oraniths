@@ -642,3 +642,5 @@ Fix typo in code
 Update config settings
 
 Update documentation
+
+Refactor code for better readability
