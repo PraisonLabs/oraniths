@@ -646,3 +646,5 @@ Refactor code for better readability
 
 Refactor code for better readability
 
+Fix bug in inventory module
+
