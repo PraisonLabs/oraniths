@@ -1,650 +1,124 @@
-Optimize performance
+<div align="center">
+  <h1>🧠 Oraniths</h1>
+  <p><strong>Natural Language Knowledge Graph Explorer (AI-Powered)</strong></p>
+  
+  <p>
+    <a href="https://p-dich.vercel.app/oraniths.html"><strong>Live Demo & Concept Showcase</strong></a>
+  </p>
+  
+  <p>
+    <a href="https://github.com/yourusername/oraniths/stargazers">
+      <img src="https://img.shields.io/github/stars/yourusername/oraniths?style=social" alt="GitHub stars" />
+    </a>
+    <a href="https://github.com/yourusername/oraniths/blob/main/LICENSE">
+      <img src="https://img.shields.io/github/license/yourusername/oraniths" alt="License" />
+    </a>
+    <a href="https://github.com/yourusername/oraniths/issues">
+      <img src="https://img.shields.io/github/issues/yourusername/oraniths" alt="GitHub issues" />
+    </a>
+  </p>
+  
+  <p>
+    <em>Map the invisible logic of knowledge</em>
+  </p>
+</div>
 
-Implement user authentication
+---
 
-Update config settings
+## 🧠 Overview
 
-Optimize performance
+**Oraniths** is an AI-powered graph explorer that transforms natural language queries into interactive knowledge graphs. Whether you're exploring tech ecosystems or mapping science concepts, Oraniths visualizes connections with elegance and simplicity.
 
-Write tests for inventory functions
+---
 
-Add comments to clarify code
+## 🔍 Features
 
-Improve logging
+- 🗣️ Natural Language Query Interface
+- 🌐 Dynamic Graph Visualization
+- 🧠 Entity Clustering & Relationships
+- 🔍 Zoomable, Interactive Node Explorer
+- 🛠 Extensible Dataset Loader System
 
-Remove unused imports
+---
 
-Refactor code for better readability
+## ⚙️ Tech Stack
 
-Update requirements.txt
+| Layer        | Technology                      |
+|--------------|----------------------------------|
+| Frontend     | React, Tailwind CSS, D3.js       |
+| Backend      | Node.js, Express, GPT SDK        |
+| Graph Engine | Cytoscape.js, Sigma.js           |
+| NLP Parsing  | OpenAI, Custom Rules Engine      |
 
-Update documentation
+---
 
-Optimize performance
+## 📁 Project Structure
 
-Fix bug in inventory module
+```bash
+oraniths/
+├── src/
+│   ├── frontend/          # React + graph UI
+│   ├── backend/           # Fake NLP + graph builder
+│   └── graph/             # Concept linking logic
+├── assets/                # Banner, demos
+├── .env.example
+├── README.md
+└── package.json
+```
 
-Optimize performance
+---
 
-Update README with usage instructions
+## 🚀 Getting Started
 
-Fix bug in inventory module
+```bash
+git clone https://github.com/PraisonLabs/oraniths.git
+cd oraniths
+npm install
+cp .env.example .env
+npm run dev
+```
 
-Update config settings
+---
 
-Fix failing tests
+## 🖼 Demo Preview
 
-Add support for new file format
+| Query Panel                      | Graph Result                      |
+| -------------------------------- | --------------------------------- |
+| ![query](./assets/query-box.gif) | ![graph](./assets/graph-view.png) |
 
-Add comments to clarify code
+---
 
-Improve UI responsiveness
+## 🎨 Concept Showcase
 
-Update requirements.txt
+The project's visual identity and conceptual foundation are inspired by the [Oraniths digital art showcase](https://p-dich.vercel.app/oraniths.html).
 
-Improve UI responsiveness
+> Dripping citrus dreams, sparking tangerine rebellion.<br/>
+> Neon Veins: Pulsing streams of liquid fire, channeling cosmic energy.<br/>
+> Amber Exoskin: Bio-engineered armor, infused with ancient solar code.
 
-Improve UI responsiveness
+![Oraniths Showcase 1](https://user-images.githubusercontent.com/26884354/204321953-b4463428-b762-4b2a-b732-2d251644defc.png)
+![Oraniths Showcase 2](https://user-images.githubusercontent.com/26884354/204321953-b4463428-b762-4b2a-b732-2d251644defc.png)
 
-Improve error handling
+---
 
-Fix typo in code
+## 🌌 Future Plans
 
-Improve error handling
+* 🧠 Wikipedia Entity Linking
+* 🎙️ Voice-Driven Search Mode
+* 📁 Multi-graph Management
+* 🔌 SPARQL + Wikidata API support
 
-Improve UI responsiveness
+---
 
-Cleanup codebase
+## 📜 License
 
-Remove unused imports
+Licensed under the [MIT License](./LICENSE)
 
-Add support for new file format
+---
 
-Add comments to clarify code
+## 🙋 About
 
-Update dependencies
+Built by [@yourusername](https://github.com/yourusername)
+A visual exploration concept – not for production use.
 
-Add comments to clarify code
-
-Optimize performance
-
-Add new feature to inventory
-
-Update dependencies
-
-Update dependencies
-
-Update config settings
-
-Fix bug in inventory module
-
-Optimize performance
-
-Refactor code for better readability
-
-Cleanup codebase
-
-Update requirements.txt
-
-Implement user authentication
-
-Optimize performance
-
-Add support for new file format
-
-Cleanup codebase
-
-Add support for new file format
-
-Fix bug in inventory module
-
-Fix failing tests
-
-Update config settings
-
-Improve error handling
-
-Write tests for inventory functions
-
-Fix failing tests
-
-Fix typo in code
-
-Update README with usage instructions
-
-Improve error handling
-
-Remove unused imports
-
-Cleanup codebase
-
-Add comments to clarify code
-
-Add comments to clarify code
-
-Fix bug in inventory module
-
-Update documentation
-
-Update README with usage instructions
-
-Add new feature to inventory
-
-Fix failing tests
-
-Add new feature to inventory
-
-Update config settings
-
-Improve error handling
-
-Improve error handling
-
-Add comments to clarify code
-
-Fix typo in code
-
-Fix typo in code
-
-Add new feature to inventory
-
-Update documentation
-
-Update requirements.txt
-
-Cleanup codebase
-
-Update README with usage instructions
-
-Improve UI responsiveness
-
-Implement user authentication
-
-Improve UI responsiveness
-
-Optimize performance
-
-Improve UI responsiveness
-
-Remove unused imports
-
-Optimize performance
-
-Update README with usage instructions
-
-Improve error handling
-
-Cleanup codebase
-
-Update documentation
-
-Fix bug in inventory module
-
-Implement user authentication
-
-Fix typo in code
-
-Add comments to clarify code
-
-Fix bug in inventory module
-
-Implement user authentication
-
-Fix bug in inventory module
-
-Optimize performance
-
-Refactor code for better readability
-
-Update requirements.txt
-
-Cleanup codebase
-
-Fix typo in code
-
-Refactor code for better readability
-
-Optimize performance
-
-Improve error handling
-
-Add comments to clarify code
-
-Update config settings
-
-Cleanup codebase
-
-Update documentation
-
-Cleanup codebase
-
-Fix bug in inventory module
-
-Implement user authentication
-
-Cleanup codebase
-
-Cleanup codebase
-
-Add support for new file format
-
-Remove unused imports
-
-Update dependencies
-
-Refactor code for better readability
-
-Fix failing tests
-
-Update dependencies
-
-Improve error handling
-
-Update README with usage instructions
-
-Remove unused imports
-
-Improve logging
-
-Update config settings
-
-Update requirements.txt
-
-Update dependencies
-
-Fix typo in code
-
-Update requirements.txt
-
-Optimize performance
-
-Write tests for inventory functions
-
-Add support for new file format
-
-Fix bug in inventory module
-
-Update documentation
-
-Update documentation
-
-Update requirements.txt
-
-Optimize performance
-
-Improve UI responsiveness
-
-Implement user authentication
-
-Improve UI responsiveness
-
-Optimize performance
-
-Improve UI responsiveness
-
-Fix bug in inventory module
-
-Update dependencies
-
-Fix failing tests
-
-Fix bug in inventory module
-
-Remove unused imports
-
-Fix typo in code
-
-Add comments to clarify code
-
-Refactor code for better readability
-
-Add new feature to inventory
-
-Improve UI responsiveness
-
-Improve logging
-
-Add new feature to inventory
-
-Fix bug in inventory module
-
-Update documentation
-
-Update dependencies
-
-Remove unused imports
-
-Fix bug in inventory module
-
-Fix typo in code
-
-Improve logging
-
-Update dependencies
-
-Improve error handling
-
-Update documentation
-
-Update documentation
-
-Fix failing tests
-
-Improve error handling
-
-Update dependencies
-
-Add support for new file format
-
-Update README with usage instructions
-
-Update documentation
-
-Optimize performance
-
-Fix typo in code
-
-Update requirements.txt
-
-Write tests for inventory functions
-
-Implement user authentication
-
-Write tests for inventory functions
-
-Implement user authentication
-
-Optimize performance
-
-Update requirements.txt
-
-Cleanup codebase
-
-Fix typo in code
-
-Fix typo in code
-
-Update README with usage instructions
-
-Update requirements.txt
-
-Update dependencies
-
-Update README with usage instructions
-
-Optimize performance
-
-Update dependencies
-
-Fix failing tests
-
-Add new feature to inventory
-
-Write tests for inventory functions
-
-Update requirements.txt
-
-Write tests for inventory functions
-
-Update documentation
-
-Improve UI responsiveness
-
-Fix bug in inventory module
-
-Add new feature to inventory
-
-Update config settings
-
-Fix failing tests
-
-Fix typo in code
-
-Implement user authentication
-
-Update README with usage instructions
-
-Add comments to clarify code
-
-Add support for new file format
-
-Update README with usage instructions
-
-Fix failing tests
-
-Update dependencies
-
-Fix typo in code
-
-Update requirements.txt
-
-Update dependencies
-
-Update README with usage instructions
-
-Remove unused imports
-
-Remove unused imports
-
-Improve logging
-
-Improve error handling
-
-Update requirements.txt
-
-Add support for new file format
-
-Fix typo in code
-
-Add support for new file format
-
-Update requirements.txt
-
-Improve logging
-
-Update requirements.txt
-
-Optimize performance
-
-Update documentation
-
-Write tests for inventory functions
-
-Update config settings
-
-Optimize performance
-
-Update README with usage instructions
-
-Refactor code for better readability
-
-Update dependencies
-
-Improve error handling
-
-Implement user authentication
-
-Optimize performance
-
-Update README with usage instructions
-
-Improve logging
-
-Fix typo in code
-
-Improve UI responsiveness
-
-Fix typo in code
-
-Implement user authentication
-
-Improve logging
-
-Add support for new file format
-
-Improve logging
-
-Fix typo in code
-
-Cleanup codebase
-
-Update documentation
-
-Improve UI responsiveness
-
-Remove unused imports
-
-Remove unused imports
-
-Write tests for inventory functions
-
-Cleanup codebase
-
-Write tests for inventory functions
-
-Optimize performance
-
-Fix bug in inventory module
-
-Improve error handling
-
-Add new feature to inventory
-
-Cleanup codebase
-
-Update dependencies
-
-Fix failing tests
-
-Improve UI responsiveness
-
-Add comments to clarify code
-
-Update README with usage instructions
-
-Update dependencies
-
-Improve logging
-
-Refactor code for better readability
-
-Write tests for inventory functions
-
-Update documentation
-
-Update config settings
-
-Fix bug in inventory module
-
-Add comments to clarify code
-
-Implement user authentication
-
-Improve logging
-
-Implement user authentication
-
-Update requirements.txt
-
-Remove unused imports
-
-Implement user authentication
-
-Remove unused imports
-
-Update config settings
-
-Remove unused imports
-
-Refactor code for better readability
-
-Update config settings
-
-Optimize performance
-
-Add support for new file format
-
-Update config settings
-
-Update documentation
-
-Update config settings
-
-Optimize performance
-
-Improve logging
-
-Add support for new file format
-
-Improve error handling
-
-Add support for new file format
-
-Update dependencies
-
-Add support for new file format
-
-Improve error handling
-
-Refactor code for better readability
-
-Cleanup codebase
-
-Refactor code for better readability
-
-Fix failing tests
-
-Update documentation
-
-Add support for new file format
-
-Fix failing tests
-
-Update README with usage instructions
-
-Fix typo in code
-
-Cleanup codebase
-
-Cleanup codebase
-
-Cleanup codebase
-
-Cleanup codebase
-
-Update requirements.txt
-
-Fix typo in code
-
-Add comments to clarify code
-
-Update documentation
-
-Refactor code for better readability
-
-Write tests for inventory functions
-
-Implement user authentication
-
-Improve UI responsiveness
-
-Update documentation
-
-Improve logging
-
-Update README with usage instructions
-
-Write tests for inventory functions
-
-Fix typo in code
-
-Update config settings
-
-Update documentation
-
-Refactor code for better readability
-
-Refactor code for better readability
-
-Fix bug in inventory module
-
+> *Oraniths helps you map the invisible logic of knowledge.*
