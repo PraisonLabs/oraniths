@@ -1,4 +1,5 @@
 <div align="center">
+  <img src="./public/banner.png" alt="Oraniths Banner" style="max-width: 100%; height: auto;" />
   <h1>🧠 Oraniths</h1>
   <p><strong>Natural Language Knowledge Graph Explorer (AI-Powered)</strong></p>
   
