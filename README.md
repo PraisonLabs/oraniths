@@ -42,14 +42,31 @@
 
 ---
 
-## ⚙️ Tech Stack
+## 🏗️ Architecture Overview
 
-| Layer        | Technology                      |
-|--------------|----------------------------------|
-| Frontend     | React, Tailwind CSS, D3.js       |
-| Backend      | Node.js, Express, GPT SDK        |
-| Graph Engine | Cytoscape.js, Sigma.js           |
-| NLP Parsing  | OpenAI, Custom Rules Engine      |
+```mermaid
+flowchart LR
+    A[User Query] --> B[Frontend React + D3.js]
+    B --> C[Backend Node.js + Express]
+    C --> D[NLP Parsing OpenAI + Rules Engine]
+    D --> E[Graph Engine Cytoscape.js + Sigma.js]
+    E --> F[Graph Visualization]
+```
+
+*Above: High-level architecture of Oraniths.*
+
+---
+
+## 🚀 Tech Stack
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="40"/>
+</p>
 
 ---
 
@@ -81,15 +98,7 @@ npm run dev
 
 ---
 
-## 🖼 Demo Preview
-
-| Query Panel                      | Graph Result                      |
-| -------------------------------- | --------------------------------- |
-| ![query](./assets/query-box.gif) | ![graph](./assets/graph-view.png) |
-
----
-
-## 🎨 Concept Showcase
+## 🎨 Concept Art
 
 The project's visual identity and conceptual foundation are inspired by the [Oraniths digital art showcase](https://p-dich.vercel.app/oraniths.html).
 
