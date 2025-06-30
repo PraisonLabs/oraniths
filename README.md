@@ -648,3 +648,5 @@ Refactor code for better readability
 Refactor code for better readability
 
 Fix bug in inventory module
+
+  <img src="./public/banner.png" alt="Oraniths Banner" style="max-width: 100%; height: auto;" />
