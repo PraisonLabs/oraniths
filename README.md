@@ -1,663 +1,402 @@
-Optimize performance
+<div align="center">
+  <img src="public/banner.webp" alt="Oraniths Banner" width="100%" style="max-width: 800px;"/>
+</div>
 
+<div align="center">
+
+# 🧠 ORANITHS  
+**Intelligence · Knowledge · Connection**
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Version-1.0.0-blueviolet?style=for-the-badge&logo=vercel" alt="Version">
+  <img src="https://img.shields.io/badge/Status-Active-green?style=for-the-badge&logo=github" alt="Status">
+  <img src="https://img.shields.io/badge/License-MIT-blue?style=for-the-badge&logo=opensource" alt="License">
+  <img src="https://img.shields.io/badge/Powered%20By-PraisonLabs-orange?style=for-the-badge" alt="Powered By">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/stars/Biotech-glitch/oraniths?style=social" alt="GitHub Stars">
+  <img src="https://img.shields.io/github/forks/Biotech-glitch/oraniths?style=social" alt="GitHub Forks">
+  <img src="https://img.shields.io/github/watchers/Biotech-glitch/oraniths?style=social" alt="GitHub Watchers">
+</p>
+
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Biotech-glitch.oraniths" alt="Visitor Count">
+  <img src="https://img.shields.io/github/last-commit/Biotech-glitch/oraniths?color=neon&style=flat-square" alt="Last Commit">
+</p>
+
+</div>
+
+---
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════╗
+║                    🧠 ORANITHS SYSTEM STATUS 🧠               ║
+╠══════════════════════════════════════════════════════════════╣
+║  🟢 KNOWLEDGE ENGINE: ONLINE    ████████████████████████████ 100% ║
+║  🔴 NLP PROCESSOR: ACTIVE       ████████████████████████████ 100% ║
+║  🟡 GRAPH BUILDER: STABLE       ████████████████████████████ 100% ║
+║  🔵 VISUALIZATION: NOMINAL      ████████████████████████████ 100% ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+<details>
+<summary>🔮 <strong>Click to reveal navigation matrix</strong></summary>
+
+- [🧬 Overview](#-overview) - Project introduction and mission
+- [🌐 Knowledge Universe](#-knowledge-universe-oraniths) - The Oraniths ecosystem
+- [🧱 Core Features](#-core-features) - Feature vault
+- [🧊 Query Series](#-query-series-natural-language) - AI-powered queries
+- [🛠️ Tech Stack](#️-tech-stack) - Technology matrix
+- [🔗 Live Preview](#-live-preview) - Access portal
+- [🧾 License](#-license) - Legal framework
+- [✨ Credits](#-credits) - Transmission end
+
+</details>
+
+---
+
+## 🧬 Overview
 
-Implement user authentication
+<p align="center">
+  <em>Map the invisible logic of knowledge.</em>
+</p>
 
-Update config settings
+**Oraniths** is an AI-powered knowledge graph explorer that transforms natural language queries into interactive visualizations from **PRAISON™ LABS**.
 
-Optimize performance
+It combines intelligent NLP processing, dynamic graph generation, and elegant visualization to make knowledge mapping intuitive and accessible.
 
-Write tests for inventory functions
+<details>
+<summary>🎯 <strong>Mission Parameters</strong></summary>
 
-Add comments to clarify code
+```
+╔══════════════════════════════════════════════════════════════╗
+║                    🎯 MISSION PARAMETERS 🎯                  ║
+╠══════════════════════════════════════════════════════════════╣
+║  🔴 PRIMARY: Knowledge Discovery     ████████████████████ 95% ║
+║  🟠 SECONDARY: Graph Visualization   ████████████████████ 92% ║
+║  🟡 TERTIARY: NLP Understanding     ████████████████████ 88% ║
+║  🟢 BONUS: Interactive Exploration  ████████████████████ 100% ║
+╚══════════════════════════════════════════════════════════════╝
+```
 
-Improve logging
+**Key Features:**
+- 🌌 Natural language query interface
+- ⚡ Real-time graph generation
+- 🎭 Interactive node exploration
+- 🔮 AI-powered knowledge mapping
+- 🛸 Cross-dimensional knowledge linking
 
-Remove unused imports
+</details>
 
-Refactor code for better readability
+---
 
-Update requirements.txt
+## 🌐 Knowledge Universe: Oraniths
 
-Update documentation
+<div align="center">
 
-Optimize performance
+```
+    🌌 ORANITHS KNOWLEDGE MAP 🌌
+    
+    ╭─────────────────────────────────────╮
+    │  🧠 Concepts (Knowledge Era)        │
+    │  🔭 Entities (AI Century)           │
+    │  ✨ Relationships (Deep Learning)    │
+    │  ✨ Connections (Neural Networks)    │
+    ╰─────────────────────────────────────╯
+    
+    📊 KNOWLEDGE STATS:
+    ┌─────────────────────────────────────┐
+    │ 🌌 System: ORANITHS                 │
+    │ 👾 Nodes: Infinite                  │
+    │ 🧩 Origin: Natural Language         │
+    │ 🌇 Timeframe: Real-time             │
+    │ 🎭 Genre: AI-KNOWLEDGE              │
+    └─────────────────────────────────────┘
+```
 
-Fix bug in inventory module
+</div>
 
-Optimize performance
+### **Knowledge Coordinates**  
 
-Update README with usage instructions
+- 🧠 **Concepts** – Core knowledge nodes  
+- 🔭 **Entities** – Real-world objects  
+- ✨ **Relationships** – Connection patterns  
+- 🔗 **GitDNA Reference:** `ORANITHS.GIT`
 
-Fix bug in inventory module
+---
 
-Update config settings
+## 🧱 Core Features
 
-Fix failing tests
+<p align="center">
+  <em>Explore intelligent knowledge mapping with AI precision.</em>
+</p>
 
-Add support for new file format
+<div align="center">
 
-Add comments to clarify code
+```
+╔══════════════════════════════════════════════════════════════╗
+║                    🚨 FEATURE VAULT 🚨                       ║
+╚══════════════════════════════════════════════════════════════╝
+```
 
-Improve UI responsiveness
+</div>
 
-Update requirements.txt
+### 🚨 Key Components
 
-Improve UI responsiveness
+<div align="center">
 
-Improve UI responsiveness
+| 🔻 Feature | 💬 Description | ⚡ Power Level |
+|------------|----------------|----------------|
+| **Natural Language Parser** | Transform queries into graph structures | ████████████████████████████ **100%** |
+| **Dynamic Graph Engine** | Real-time visualization of knowledge connections | ████████████████████████████ **100%** |
+| **Interactive Explorer** | Zoomable, clickable node navigation system | ████████████████████████████ **100%** |
+| **AI Knowledge Mapper** | Intelligent relationship discovery and clustering | ████████████████████████████ **100%** |
 
-Improve error handling
+</div>
 
-Fix typo in code
+<div align="center">
 
-Improve error handling
+```
+🎯 INTERACTION PROTOCOL: Query → Process → Visualize → Explore
+```
 
-Improve UI responsiveness
+</div>
 
-Cleanup codebase
+---
 
-Remove unused imports
+## 🧊 Query Series: "Natural Language"
 
-Add support for new file format
+<div align="center">
 
-Add comments to clarify code
+```
+╔══════════════════════════════════════════════════════════════╗
+║                    🧊 QUERY SERIES VAULT 🧊                  ║
+╚══════════════════════════════════════════════════════════════╝
+```
 
-Update dependencies
+<strong>AI-powered queries from the knowledge engine:</strong>
 
-Add comments to clarify code
+</div>
 
-Optimize performance
+<div align="center">
 
-Add new feature to inventory
+```
+┌─────────────────────────────────────────────────────────────┐
+│  🔸 "Show me connections between AI and healthcare"          │
+│  🔸 "Map the relationship between climate change and tech"   │
+│  🔸 "Explore blockchain and finance relationships"          │
+│  🔸 "Visualize machine learning ecosystem"                  │
+└─────────────────────────────────────────────────────────────┘
+```
 
-Update dependencies
+</div>
 
-Update dependencies
+---
 
-Update config settings
+## 🛠️ Tech Stack
 
-Fix bug in inventory module
+<p align="center">
+  <em>Cutting-edge technologies powering knowledge exploration.</em>
+</p>
 
-Optimize performance
+<div align="center">
 
-Refactor code for better readability
+```
+╔══════════════════════════════════════════════════════════════╗
+║                    🛠️ TECHNOLOGY MATRIX 🛠️                   ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+| 🧱 Technology | 📊 Usage | 🎯 Purpose |
+|---------------|----------|------------|
+| **React** | ████████████████████████████ **100%** | Frontend interface |
+| **D3.js** | ████████████████████████████ **100%** | Graph visualization |
+| **Cytoscape.js** | ████████████████████████████ **100%** | Interactive networks |
+| **Node.js** | ████████████████████████████ **100%** | Backend processing |
+| **Express** | ████████████████████████████ **100%** | API framework |
+| **TypeScript** | ████████████████████████████ **100%** | Type safety |
 
-Cleanup codebase
+---
 
-Update requirements.txt
+## 🔗 Live Preview
 
-Implement user authentication
+<p align="center">
+  <em>Experience the future of knowledge exploration.</em>
+</p>
 
-Optimize performance
+<div align="center">
 
-Add support for new file format
+```
+╔══════════════════════════════════════════════════════════════╗
+║                    🌐 ACCESS PORTAL 🌐                       ║
+╚══════════════════════════════════════════════════════════════╝
+```
 
-Cleanup codebase
+<p align="center">
+  <a href="https://p-dich.vercel.app/oraniths.html">
+    <img src="https://img.shields.io/badge/🌐%20Visit%20Oraniths-Live%20Demo-brightgreen?style=for-the-badge&logo=vercel" alt="Visit Oraniths">
+  </a>
+</p>
 
-Add support for new file format
+<details>
+<summary>🚀 <strong>System Requirements & Compatibility</strong></summary>
 
-Fix bug in inventory module
+```
+╔══════════════════════════════════════════════════════════════╗
+║                  🖥️ SYSTEM COMPATIBILITY 🖥️                 ║
+╠══════════════════════════════════════════════════════════════╣
+║  🌐 Chrome 90+     ████████████████████████████████ OPTIMAL ║
+║  🦊 Firefox 88+    ████████████████████████████████ OPTIMAL ║
+║  🧭 Safari 14+     ███████████████████████████████▒ STABLE  ║
+║  📱 Mobile View    ████████████████████████▒▒▒▒▒▒▒ LIMITED  ║
+╚══════════════════════════════════════════════════════════════╝
+```
 
-Fix failing tests
+**Recommended Specs:**
+- 💾 RAM: 4GB+
+- 🌐 Connection: 5Mbps+
+- 🖥️ Resolution: 1366x768+
+- 🧠 JavaScript: Enabled
 
-Update config settings
+</details>
 
-Improve error handling
+```
+┌─────────────────────────────────────────────────────────────┐
+│  🚀 INITIALIZING KNOWLEDGE ENGINE...                        │
+│  🔗 ESTABLISHING NEURAL CONNECTIONS...                      │
+│  ✅ ACCESS GRANTED - EXPLORE KNOWLEDGE                      │
+└─────────────────────────────────────────────────────────────┘
+```
 
-Write tests for inventory functions
+</div>
 
-Fix failing tests
+---
 
-Fix typo in code
+## 📊 Project Stats
 
-Update README with usage instructions
+<div align="center">
 
-Improve error handling
+```
+╔══════════════════════════════════════════════════════════════╗
+║                    📊 ORANITHS ANALYTICS 📊                 ║
+╠══════════════════════════════════════════════════════════════╣
+║  📝 Lines of Code: 8,532         🗂️ Total Files: 89         ║
+║  🚀 Commits: 125                 👥 Contributors: 2         ║
+║  🌟 Stars: Growing               🔄 Forks: Active            ║
+║  👀 Watchers: Engaged            📅 Last Update: 2025-01-23  ║
+╚══════════════════════════════════════════════════════════════╝
+```
 
-Remove unused imports
+</div>
 
-Cleanup codebase
+<details>
+<summary>📈 <strong>Development Timeline</strong></summary>
 
-Add comments to clarify code
+```mermaid
+gitGraph
+    commit id: "Initial Concept"
+    commit id: "Core Framework"
+    branch ai-features
+    commit id: "NLP Engine"
+    commit id: "Graph Builder"
+    checkout main
+    merge ai-features
+    commit id: "UI Polish"
+    commit id: "v1.0.0 Release"
+```
 
-Add comments to clarify code
+**Milestones:**
+- ✅ Phase 1: Core Architecture (Dec 2024)
+- ✅ Phase 2: Graph Engine (Jan 2025)
+- ✅ Phase 3: NLP Integration (Jan 2025)
+- 🔄 Phase 4: Advanced Features (In Progress)
 
-Fix bug in inventory module
+</details>
 
-Update documentation
+---
 
-Update README with usage instructions
+## 🧾 License
 
-Add new feature to inventory
+<div align="center">
 
-Fix failing tests
+```
+╔══════════════════════════════════════════════════════════════╗
+║                    📜 LEGAL FRAMEWORK 📜                     ║
+╚══════════════════════════════════════════════════════════════╝
+```
 
-Add new feature to inventory
+[MIT License](./LICENSE)
 
-Update config settings
+</div>
 
-Improve error handling
+---
 
-Improve error handling
+## ✨ Credits
 
-Add comments to clarify code
+<div align="center">
 
-Fix typo in code
+```
+╔══════════════════════════════════════════════════════════════╗
+║                    🛸 ORANITHS PROTOCOL: ACTIVE 🛸           ║
+╠══════════════════════════════════════════════════════════════╣
+║  🔮 KNOWLEDGE ENGINE: PROCESSING...                          │
+║  ⭐ GITHUB STARS: AWAITING SIGNAL                            │
+║  🔄 FORKS: PARALLEL DIMENSIONS DETECTED                      │
+╚══════════════════════════════════════════════════════════════╝
+```
 
-Fix typo in code
+</div>
 
-Add new feature to inventory
+<details>
+<summary>🎮 <strong>Hidden Features & Easter Eggs</strong></summary>
 
-Update documentation
+```
+╔══════════════════════════════════════════════════════════════╗
+║                    🎮 DEVELOPER SECRETS 🎮                   ║
+╠══════════════════════════════════════════════════════════════╣
+║  🌙 Graph Mode: Auto-updates with query complexity           ║
+║  👻 Debug Mode: Triple-click logo for node IDs              ║
+║  🎵 Interaction: Node hover sounds (enable in settings)      ║
+║  🔍 Console: Hidden graph statistics                         ║
+╚══════════════════════════════════════════════════════════════╝
+```
 
-Update requirements.txt
+**Secret Commands:**
+- Type `oraniths.debug()` in console
+- Use arrow keys for graph navigation
+- Hold CTRL while clicking nodes for details
+- Double-tap ESC for full-screen mode
 
-Cleanup codebase
+</details>
 
-Update README with usage instructions
+<div align="center">
 
-Improve UI responsiveness
+```
+╔══════════════════════════════════════════════════════════════╗
+║                    🙏 SPECIAL THANKS 🙏                     ║
+╠══════════════════════════════════════════════════════════════╣
+║  🧠 [@Biotech-glitch](https://github.com/Biotech-glitch)    ║
+║  🌟 [PraisonLabs](https://praisonlab.com) - Inspiration     ║
+║  🎨 D3.js Community - Visualization magic                   ║
+║  🔬 Open Source Contributors - Knowledge sharing            ║
+╚══════════════════════════════════════════════════════════════╝
+```
 
-Implement user authentication
+---
 
-Improve UI responsiveness
+<div align="center">
 
-Optimize performance
+**Made with 🧠 and ⚡ for knowledge explorers everywhere**
 
-Improve UI responsiveness
+[⬆️ Back to Top](#-oraniths) • [🌐 Live Demo](https://p-dich.vercel.app/oraniths.html) • [⭐ Star This Repo](https://github.com/Biotech-glitch/oraniths)
 
-Remove unused imports
+</div>
 
-Optimize performance
-
-Update README with usage instructions
-
-Improve error handling
-
-Cleanup codebase
-
-Update documentation
-
-Fix bug in inventory module
-
-Implement user authentication
-
-Fix typo in code
-
-Add comments to clarify code
-
-Fix bug in inventory module
-
-Implement user authentication
-
-Fix bug in inventory module
-
-Optimize performance
-
-Refactor code for better readability
-
-Update requirements.txt
-
-Cleanup codebase
-
-Fix typo in code
-
-Refactor code for better readability
-
-Optimize performance
-
-Improve error handling
-
-Add comments to clarify code
-
-Update config settings
-
-Cleanup codebase
-
-Update documentation
-
-Cleanup codebase
-
-Fix bug in inventory module
-
-Implement user authentication
-
-Cleanup codebase
-
-Cleanup codebase
-
-Add support for new file format
-
-Remove unused imports
-
-Update dependencies
-
-Refactor code for better readability
-
-Fix failing tests
-
-Update dependencies
-
-Improve error handling
-
-Update README with usage instructions
-
-Remove unused imports
-
-Improve logging
-
-Update config settings
-
-Update requirements.txt
-
-Update dependencies
-
-Fix typo in code
-
-Update requirements.txt
-
-Optimize performance
-
-Write tests for inventory functions
-
-Add support for new file format
-
-Fix bug in inventory module
-
-Update documentation
-
-Update documentation
-
-Update requirements.txt
-
-Optimize performance
-
-Improve UI responsiveness
-
-Implement user authentication
-
-Improve UI responsiveness
-
-Optimize performance
-
-Improve UI responsiveness
-
-Fix bug in inventory module
-
-Update dependencies
-
-Fix failing tests
-
-Fix bug in inventory module
-
-Remove unused imports
-
-Fix typo in code
-
-Add comments to clarify code
-
-Refactor code for better readability
-
-Add new feature to inventory
-
-Improve UI responsiveness
-
-Improve logging
-
-Add new feature to inventory
-
-Fix bug in inventory module
-
-Update documentation
-
-Update dependencies
-
-Remove unused imports
-
-Fix bug in inventory module
-
-Fix typo in code
-
-Improve logging
-
-Update dependencies
-
-Improve error handling
-
-Update documentation
-
-Update documentation
-
-Fix failing tests
-
-Improve error handling
-
-Update dependencies
-
-Add support for new file format
-
-Update README with usage instructions
-
-Update documentation
-
-Optimize performance
-
-Fix typo in code
-
-Update requirements.txt
-
-Write tests for inventory functions
-
-Implement user authentication
-
-Write tests for inventory functions
-
-Implement user authentication
-
-Optimize performance
-
-Update requirements.txt
-
-Cleanup codebase
-
-Fix typo in code
-
-Fix typo in code
-
-Update README with usage instructions
-
-Update requirements.txt
-
-Update dependencies
-
-Update README with usage instructions
-
-Optimize performance
-
-Update dependencies
-
-Fix failing tests
-
-Add new feature to inventory
-
-Write tests for inventory functions
-
-Update requirements.txt
-
-Write tests for inventory functions
-
-Update documentation
-
-Improve UI responsiveness
-
-Fix bug in inventory module
-
-Add new feature to inventory
-
-Update config settings
-
-Fix failing tests
-
-Fix typo in code
-
-Implement user authentication
-
-Update README with usage instructions
-
-Add comments to clarify code
-
-Add support for new file format
-
-Update README with usage instructions
-
-Fix failing tests
-
-Update dependencies
-
-Fix typo in code
-
-Update requirements.txt
-
-Update dependencies
-
-Update README with usage instructions
-
-Remove unused imports
-
-Remove unused imports
-
-Improve logging
-
-Improve error handling
-
-Update requirements.txt
-
-Add support for new file format
-
-Fix typo in code
-
-Add support for new file format
-
-Update requirements.txt
-
-Improve logging
-
-Update requirements.txt
-
-Optimize performance
-
-Update documentation
-
-Write tests for inventory functions
-
-Update config settings
-
-Optimize performance
-
-Update README with usage instructions
-
-Refactor code for better readability
-
-Update dependencies
-
-Improve error handling
-
-Implement user authentication
-
-Optimize performance
-
-Update README with usage instructions
-
-Improve logging
-
-Fix typo in code
-
-Improve UI responsiveness
-
-Fix typo in code
-
-Implement user authentication
-
-Improve logging
-
-Add support for new file format
-
-Improve logging
-
-Fix typo in code
-
-Cleanup codebase
-
-Update documentation
-
-Improve UI responsiveness
-
-Remove unused imports
-
-Remove unused imports
-
-Write tests for inventory functions
-
-Cleanup codebase
-
-Write tests for inventory functions
-
-Optimize performance
-
-Fix bug in inventory module
-
-Improve error handling
-
-Add new feature to inventory
-
-Cleanup codebase
-
-Update dependencies
-
-Fix failing tests
-
-Improve UI responsiveness
-
-Add comments to clarify code
-
-Update README with usage instructions
-
-Update dependencies
-
-Improve logging
-
-Refactor code for better readability
-
-Write tests for inventory functions
-
-Update documentation
-
-Update config settings
-
-Fix bug in inventory module
-
-Add comments to clarify code
-
-Implement user authentication
-
-Improve logging
-
-Implement user authentication
-
-Update requirements.txt
-
-Remove unused imports
-
-Implement user authentication
-
-Remove unused imports
-
-Update config settings
-
-Remove unused imports
-
-Refactor code for better readability
-
-Update config settings
-
-Optimize performance
-
-Add support for new file format
-
-Update config settings
-
-Update documentation
-
-Update config settings
-
-Optimize performance
-
-Improve logging
-
-Add support for new file format
-
-Improve error handling
-
-Add support for new file format
-
-Update dependencies
-
-Add support for new file format
-
-Improve error handling
-
-Refactor code for better readability
-
-Cleanup codebase
-
-Refactor code for better readability
-
-Fix failing tests
-
-Update documentation
-
-Add support for new file format
-
-Fix failing tests
-
-Update README with usage instructions
-
-Fix typo in code
-
-Cleanup codebase
-
-Cleanup codebase
-
-Cleanup codebase
-
-Cleanup codebase
-
-Update requirements.txt
-
-Fix typo in code
-
-Add comments to clarify code
-
-Update documentation
-
-Refactor code for better readability
-
-Write tests for inventory functions
-
-Implement user authentication
-
-Improve UI responsiveness
-
-Update documentation
-
-Improve logging
-
-Update README with usage instructions
-
-Write tests for inventory functions
-
-Fix typo in code
-
-Update config settings
-
-Update documentation
-
-Refactor code for better readability
-
-Refactor code for better readability
-
-Fix bug in inventory module
-
-  <img src="./public/banner.png" alt="Oraniths Banner" style="max-width: 100%; height: auto;" />
-Built by [@Biotech-glitch](https://github.com/Biotech-glitch)  
-A visual exploration tool for mapping knowledge connections.
-
-**Inspired by and built upon concepts from [PraisonLabs](https://praisonlab.com)**
-    <a href="https://github.com/Biotech-glitch/oraniths/stargazers">
-      <img src="https://img.shields.io/github/stars/Biotech-glitch/oraniths?style=social" alt="GitHub stars" />
-    <a href="https://github.com/Biotech-glitch/oraniths/blob/main/LICENSE">
-      <img src="https://img.shields.io/github/license/Biotech-glitch/oraniths" alt="License" />
-    <a href="https://github.com/Biotech-glitch/oraniths/issues">
-      <img src="https://img.shields.io/github/issues/Biotech-glitch/oraniths" alt="GitHub issues" />
-git clone https://github.com/Biotech-glitch/oraniths.git
+</div>
