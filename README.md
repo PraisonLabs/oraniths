@@ -654,3 +654,10 @@ Built by [@Biotech-glitch](https://github.com/Biotech-glitch)
 A visual exploration tool for mapping knowledge connections.
 
 **Inspired by and built upon concepts from [PraisonLabs](https://praisonlab.com)**
+    <a href="https://github.com/Biotech-glitch/oraniths/stargazers">
+      <img src="https://img.shields.io/github/stars/Biotech-glitch/oraniths?style=social" alt="GitHub stars" />
+    <a href="https://github.com/Biotech-glitch/oraniths/blob/main/LICENSE">
+      <img src="https://img.shields.io/github/license/Biotech-glitch/oraniths" alt="License" />
+    <a href="https://github.com/Biotech-glitch/oraniths/issues">
+      <img src="https://img.shields.io/github/issues/Biotech-glitch/oraniths" alt="GitHub issues" />
+git clone https://github.com/Biotech-glitch/oraniths.git
