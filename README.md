@@ -5,13 +5,13 @@
 <div align="center">
 
 # 🧠 ORANITHS  
-**Intelligence · Knowledge · Connection**
+**Intelligence · Knowledge · Solana-Powered**
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Version-1.0.0-blueviolet?style=for-the-badge&logo=vercel" alt="Version">
-  <img src="https://img.shields.io/badge/Status-Active-green?style=for-the-badge&logo=github" alt="Status">
+  <img src="https://img.shields.io/badge/Version-2.1.0-purple?style=for-the-badge&logo=solana" alt="Version">
+  <img src="https://img.shields.io/badge/Status-Blockchain%20Ready-success?style=for-the-badge&logo=solana" alt="Status">
   <img src="https://img.shields.io/badge/License-MIT-blue?style=for-the-badge&logo=opensource" alt="License">
-  <img src="https://img.shields.io/badge/Powered%20By-PraisonLabs-orange?style=for-the-badge" alt="Powered By">
+  <img src="https://img.shields.io/badge/Network-Solana-9945FF?style=for-the-badge&logo=solana" alt="Solana Network">
 </p>
 
 <p align="center">
@@ -33,12 +33,12 @@
 
 ```
 ╔══════════════════════════════════════════════════════════════╗
-║                    🧠 ORANITHS SYSTEM STATUS 🧠               ║
+║                  🧠 ORANITHS BLOCKCHAIN STATUS 🧠             ║
 ╠══════════════════════════════════════════════════════════════╣
-║  🟢 KNOWLEDGE ENGINE: ONLINE    ████████████████████████████ 100% ║
-║  🔴 NLP PROCESSOR: ACTIVE       ████████████████████████████ 100% ║
-║  🟡 GRAPH BUILDER: STABLE       ████████████████████████████ 100% ║
-║  🔵 VISUALIZATION: NOMINAL      ████████████████████████████ 100% ║
+║  🟢 SOLANA RPC: CONNECTED       ████████████████████████████ 100% ║
+║  🔴 KNOWLEDGE ENGINE: MINING     ████████████████████████████ 100% ║
+║  🟡 GRAPH INDEXER: SYNCING      ███████████████████████████▒  95% ║
+║  🔵 WALLET INTEGRATION: ACTIVE  ████████████████████████████ 100% ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
@@ -47,90 +47,91 @@
 <details>
 <summary>🔮 <strong>Click to reveal navigation matrix</strong></summary>
 
-- [🧬 Overview](#-overview) - Project introduction and mission
-- [🌐 Knowledge Universe](#-knowledge-universe-oraniths) - The Oraniths ecosystem
-- [🧱 Core Features](#-core-features) - Feature vault
-- [🧊 Query Series](#-query-series-natural-language) - AI-powered queries
-- [🛠️ Tech Stack](#️-tech-stack) - Technology matrix
-- [🔗 Live Preview](#-live-preview) - Access portal
-- [🧾 License](#-license) - Legal framework
-- [✨ Credits](#-credits) - Transmission end
+- [🚀 Genesis](#-genesis) - Project origins and Web3 vision
+- [⚡ Solana Network](#-solana-network-integration) - Blockchain infrastructure
+- [💎 DeFi Arsenal](#-defi-arsenal) - Trading and analytics tools
+- [🔮 Neural Queries](#-neural-queries-blockchain-ai) - AI-powered blockchain analysis
+- [🛠️ Web3 Stack](#️-web3-stack) - Decentralized technology matrix
+- [🌐 Live Dapp](#-live-dapp) - Production deployment
+- [📜 Tokenomics](#-tokenomics) - Economic framework
+- [🎯 Roadmap](#-roadmap) - Future development
 
 </details>
 
 ---
 
-## 🧬 Overview
+## 🚀 Genesis
 
 <p align="center">
   <em>Map the invisible logic of knowledge.</em>
 </p>
 
-**Oraniths** is an AI-powered knowledge graph explorer that transforms natural language queries into interactive visualizations from **PRAISON™ LABS**.
+**Oraniths** is a revolutionary Web3 knowledge graph explorer built on Solana blockchain that transforms natural language queries into decentralized interactive visualizations from **PRAISON™ LABS**.
 
-It combines intelligent NLP processing, dynamic graph generation, and elegant visualization to make knowledge mapping intuitive and accessible.
+It combines intelligent NLP processing, on-chain data indexing, Solana program integration, and elegant visualization to make blockchain knowledge mapping intuitive and accessible through wallet-connected experiences.
 
 <details>
 <summary>🎯 <strong>Mission Parameters</strong></summary>
 
 ```
 ╔══════════════════════════════════════════════════════════════╗
-║                    🎯 MISSION PARAMETERS 🎯                  ║
+║                    🎯 WEB3 MISSION PARAMETERS 🎯             ║
 ╠══════════════════════════════════════════════════════════════╣
-║  🔴 PRIMARY: Knowledge Discovery     ████████████████████ 95% ║
-║  🟠 SECONDARY: Graph Visualization   ████████████████████ 92% ║
-║  🟡 TERTIARY: NLP Understanding     ████████████████████ 88% ║
-║  🟢 BONUS: Interactive Exploration  ████████████████████ 100% ║
+║  🔴 PRIMARY: Blockchain Data Mining  ████████████████████ 98% ║
+║  🟠 SECONDARY: Solana Integration    ████████████████████ 94% ║
+║  🟡 TERTIARY: Wallet Connectivity   ████████████████████ 91% ║
+║  🟢 BONUS: DeFi Knowledge Graphs    ████████████████████ 100% ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
 **Key Features:**
-- 🌌 Natural language query interface
-- ⚡ Real-time graph generation
-- 🎭 Interactive node exploration
-- 🔮 AI-powered knowledge mapping
-- 🛸 Cross-dimensional knowledge linking
+- 🌌 Wallet-connected knowledge queries
+- ⚡ Real-time Solana data visualization
+- 🎭 Interactive DeFi protocol mapping
+- 🔮 AI-powered token relationship analysis
+- 🛸 Cross-chain knowledge bridging
+- 💎 NFT metadata graph exploration
 
 </details>
 
 ---
 
-## 🌐 Knowledge Universe: Oraniths
+## ⚡ Solana Network Integration
 
 <div align="center">
 
 ```
-    🌌 ORANITHS KNOWLEDGE MAP 🌌
+    🌌 ORANITHS BLOCKCHAIN MAP 🌌
     
     ╭─────────────────────────────────────╮
-    │  🧠 Concepts (Knowledge Era)        │
-    │  🔭 Entities (AI Century)           │
-    │  ✨ Relationships (Deep Learning)    │
-    │  ✨ Connections (Neural Networks)    │
+    │  💎 Tokens (DeFi Era)               │
+    │  🏦 Protocols (Web3 Century)        │
+    │  ✨ Transactions (On-Chain Data)    │
+    │  ✨ Validators (Consensus Network)   │
     ╰─────────────────────────────────────╯
     
-    📊 KNOWLEDGE STATS:
+    📊 BLOCKCHAIN STATS:
     ┌─────────────────────────────────────┐
-    │ 🌌 System: ORANITHS                 │
-    │ 👾 Nodes: Infinite                  │
-    │ 🧩 Origin: Natural Language         │
-    │ 🌇 Timeframe: Real-time             │
-    │ 🎭 Genre: AI-KNOWLEDGE              │
+    │ 🌌 Network: SOLANA MAINNET          │
+    │ 👾 Programs: 15,000+                │
+    │ 🧩 Origin: Wallet Integration       │
+    │ 🌇 Timeframe: Block-time            │
+    │ 🎭 Genre: WEB3-KNOWLEDGE            │
     └─────────────────────────────────────┘
 ```
 
 </div>
 
-### **Knowledge Coordinates**  
+### **Blockchain Coordinates**  
 
-- 🧠 **Concepts** – Core knowledge nodes  
-- 🔭 **Entities** – Real-world objects  
-- ✨ **Relationships** – Connection patterns  
-- 🔗 **GitDNA Reference:** `ORANITHS.GIT`
+- 💎 **Tokens** – SPL token analysis and metadata  
+- 🏦 **Protocols** – DeFi platform relationships  
+- ✨ **Transactions** – On-chain activity patterns  
+- 🔗 **Program Reference:** `ORANITHS.SOL`
 
 ---
 
-## 🧱 Core Features
+## 💎 DeFi Arsenal
 
 <p align="center">
   <em>Explore intelligent knowledge mapping with AI precision.</em>
@@ -140,46 +141,46 @@ It combines intelligent NLP processing, dynamic graph generation, and elegant vi
 
 ```
 ╔══════════════════════════════════════════════════════════════╗
-║                    🚨 FEATURE VAULT 🚨                       ║
+║                    💎 TRADING ARSENAL 💎                     ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
 </div>
 
-### 🚨 Key Components
+### 💰 DeFi Weapons
 
 <div align="center">
 
 | 🔻 Feature | 💬 Description | ⚡ Power Level |
 |------------|----------------|----------------|
-| **Natural Language Parser** | Transform queries into graph structures | ████████████████████████████ **100%** |
-| **Dynamic Graph Engine** | Real-time visualization of knowledge connections | ████████████████████████████ **100%** |
-| **Interactive Explorer** | Zoomable, clickable node navigation system | ████████████████████████████ **100%** |
-| **AI Knowledge Mapper** | Intelligent relationship discovery and clustering | ████████████████████████████ **100%** |
+| **Solana RPC Integration** | Direct blockchain data fetching and indexing | ████████████████████████████ **100%** |
+| **Wallet Connection Hub** | Phantom, Solflare, and Backpack support | ████████████████████████████ **100%** |
+| **DeFi Protocol Mapper** | Interactive visualization of yield farms & AMMs | ████████████████████████████ **100%** |
+| **Token Relationship AI** | Intelligent analysis of SPL token ecosystems | ████████████████████████████ **100%** |
 
 </div>
 
 <div align="center">
 
 ```
-🎯 INTERACTION PROTOCOL: Query → Process → Visualize → Explore
+🎯 WEB3 PROTOCOL: Connect Wallet → Query Blockchain → Visualize → Trade
 ```
 
 </div>
 
 ---
 
-## 🧊 Query Series: "Natural Language"
+## 🔮 Neural Queries: Blockchain AI
 
 <div align="center">
 
 ```
 ╔══════════════════════════════════════════════════════════════╗
-║                    🧊 QUERY SERIES VAULT 🧊                  ║
+║                    🔮 AI NEURAL ENGINE 🔮                    ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
-<strong>AI-powered queries from the knowledge engine:</strong>
+<strong>Machine learning queries for DeFi intelligence:</strong>
 
 </div>
 
@@ -187,10 +188,10 @@ It combines intelligent NLP processing, dynamic graph generation, and elegant vi
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
-│  🔸 "Show me connections between AI and healthcare"          │
-│  🔸 "Map the relationship between climate change and tech"   │
-│  🔸 "Explore blockchain and finance relationships"          │
-│  🔸 "Visualize machine learning ecosystem"                  │
+│  🔸 "Show me all DEXs connected to Jupiter aggregator"      │
+│  🔸 "Map $SOL staking relationships across validators"      │
+│  🔸 "Explore Serum order book vs AMM protocols"            │
+│  🔸 "Visualize Raydium liquidity pools ecosystem"          │
 └─────────────────────────────────────────────────────────────┘
 ```
 
@@ -198,7 +199,7 @@ It combines intelligent NLP processing, dynamic graph generation, and elegant vi
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Web3 Stack
 
 <p align="center">
   <em>Cutting-edge technologies powering knowledge exploration.</em>
@@ -208,7 +209,7 @@ It combines intelligent NLP processing, dynamic graph generation, and elegant vi
 
 ```
 ╔══════════════════════════════════════════════════════════════╗
-║                    🛠️ TECHNOLOGY MATRIX 🛠️                   ║
+║                    ⚙️ DECENTRALIZED STACK ⚙️                ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
@@ -216,16 +217,16 @@ It combines intelligent NLP processing, dynamic graph generation, and elegant vi
 
 | 🧱 Technology | 📊 Usage | 🎯 Purpose |
 |---------------|----------|------------|
-| **React** | ████████████████████████████ **100%** | Frontend interface |
-| **D3.js** | ████████████████████████████ **100%** | Graph visualization |
-| **Cytoscape.js** | ████████████████████████████ **100%** | Interactive networks |
-| **Node.js** | ████████████████████████████ **100%** | Backend processing |
-| **Express** | ████████████████████████████ **100%** | API framework |
-| **TypeScript** | ████████████████████████████ **100%** | Type safety |
+| **@solana/web3.js** | ████████████████████████████ **100%** | Blockchain integration |
+| **@solana/wallet-adapter** | ████████████████████████████ **100%** | Wallet connectivity |
+| **React + Vite** | ████████████████████████████ **100%** | Frontend interface |
+| **D3.js + Cytoscape** | ████████████████████████████ **100%** | Graph visualization |
+| **Anchor Framework** | ████████████████████████████ **100%** | Solana program calls |
+| **Jupiter API** | ████████████████████████████ **100%** | DEX aggregation data |
 
 ---
 
-## 🔗 Live Preview
+## 🌐 Live Dapp
 
 <p align="center">
   <em>Experience the future of knowledge exploration.</em>
@@ -235,7 +236,7 @@ It combines intelligent NLP processing, dynamic graph generation, and elegant vi
 
 ```
 ╔══════════════════════════════════════════════════════════════╗
-║                    🌐 ACCESS PORTAL 🌐                       ║
+║                    🚀 PRODUCTION DAPP 🚀                     ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
@@ -269,9 +270,9 @@ It combines intelligent NLP processing, dynamic graph generation, and elegant vi
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
-│  🚀 INITIALIZING KNOWLEDGE ENGINE...                        │
-│  🔗 ESTABLISHING NEURAL CONNECTIONS...                      │
-│  ✅ ACCESS GRANTED - EXPLORE KNOWLEDGE                      │
+│  🚀 CONNECTING TO SOLANA RPC...                             │
+│  🔗 SYNCING BLOCKCHAIN DATA...                              │
+│  💰 WALLET READY - EXPLORE DEFI                             │
 └─────────────────────────────────────────────────────────────┘
 ```
 
@@ -322,33 +323,41 @@ gitGraph
 
 ---
 
-## 🧾 License
+## 📜 Tokenomics
 
 <div align="center">
 
 ```
 ╔══════════════════════════════════════════════════════════════╗
-║                    📜 LEGAL FRAMEWORK 📜                     ║
+║                    💰 ECONOMIC MODEL 💰                      ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
-[MIT License](./LICENSE)
+**$ORAN Token Distribution:**
+- 🏗️ Development Fund: 25%
+- 🎯 Community Rewards: 30%
+- 💎 Liquidity Provision: 20%
+- 🔒 Team Allocation: 15%
+- 🚀 Marketing & Partnerships: 10%
+
+[View Token Contract on Solscan](./LICENSE)
 
 </div>
 
 ---
 
-## ✨ Credits
+## 🎯 Roadmap
 
 <div align="center">
 
 ```
 ╔══════════════════════════════════════════════════════════════╗
-║                    🛸 ORANITHS PROTOCOL: ACTIVE 🛸           ║
+║                    🎯 DEVELOPMENT PHASES 🎯                  ║
 ╠══════════════════════════════════════════════════════════════╣
-║  🔮 KNOWLEDGE ENGINE: PROCESSING...                          │
-║  ⭐ GITHUB STARS: AWAITING SIGNAL                            │
-║  🔄 FORKS: PARALLEL DIMENSIONS DETECTED                      │
+║  ✅ Q1 2025: Mainnet Launch & Wallet Integration            │
+║  🔄 Q2 2025: Advanced DeFi Analytics & NFT Support          │
+║  ⏳ Q3 2025: Cross-chain Bridge & DAO Governance            │
+║  🚀 Q4 2025: Mobile App & Institutional Features            │
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
@@ -393,9 +402,26 @@ gitGraph
 
 <div align="center">
 
-**Made with 🧠 and ⚡ for knowledge explorers everywhere**
+---
 
-[⬆️ Back to Top](#-oraniths) • [🌐 Live Demo](https://p-dich.vercel.app/oraniths.html) • [⭐ Star This Repo](https://github.com/Biotech-glitch/oraniths)
+## 🏆 Contributors
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════╗
+║                    🙏 CORE TEAM & PARTNERS 🙏               ║
+╠══════════════════════════════════════════════════════════════╣
+║  🧠 [@Biotech-glitch](https://github.com/Biotech-glitch)    ║
+║  🌟 [PraisonLabs](https://praisonlab.com) - Innovation Hub  ║
+║  ⚡ Solana Foundation - Blockchain Infrastructure           ║
+║  🔬 Jupiter Protocol - DEX Aggregation Partnership         ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+**Made with 🧠 and ⚡ for DeFi pioneers everywhere**
+
+[⬆️ Back to Top](#-oraniths) • [🌐 Live Dapp](https://p-dich.vercel.app/oraniths.html) • [⭐ Star This Repo](https://github.com/Biotech-glitch/oraniths)
 
 </div>
 
