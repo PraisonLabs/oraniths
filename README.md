@@ -650,3 +650,7 @@ Refactor code for better readability
 Fix bug in inventory module
 
   <img src="./public/banner.png" alt="Oraniths Banner" style="max-width: 100%; height: auto;" />
+Built by [@Biotech-glitch](https://github.com/Biotech-glitch)  
+A visual exploration tool for mapping knowledge connections.
+
+**Inspired by and built upon concepts from [PraisonLabs](https://praisonlab.com)**
