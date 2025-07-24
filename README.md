@@ -241,7 +241,7 @@ It combines intelligent NLP processing, on-chain data indexing, Solana program i
 ```
 
 <p align="center">
-  <a href="https://p-dich.vercel.app/oraniths.html">
+  <a href="https://praisonlabs.com/oraniths.html">
     <img src="https://img.shields.io/badge/🌐%20Visit%20Oraniths-Live%20Demo-brightgreen?style=for-the-badge&logo=vercel" alt="Visit Oraniths">
   </a>
 </p>
@@ -421,7 +421,7 @@ gitGraph
 
 **Made with 🧠 and ⚡ for DeFi pioneers everywhere**
 
-[⬆️ Back to Top](#-oraniths) • [🌐 Live Dapp](https://p-dich.vercel.app/oraniths.html) • [⭐ Star This Repo](https://github.com/Biotech-glitch/oraniths)
+[⬆️ Back to Top](#-oraniths) • [🌐 Live Dapp](https://praisonlabs.com/oraniths.html) • [⭐ Star This Repo](https://github.com/Biotech-glitch/oraniths)
 
 </div>
 
