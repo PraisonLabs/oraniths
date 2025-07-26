@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="public/banner.webp" alt="Oraniths Banner" width="100%" style="max-width: 800px;"/>
+  <img src="public/banner.png" alt="Oraniths Banner" width="100%" style="max-width: 800px;"/>
 </div>
 
 <div align="center">
